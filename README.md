@@ -6,3 +6,6 @@ If you have a PaJR to contribute to this list, please submit a PR (just edit thi
 
 - [2023 Jun - 32Y Male with fever and dysphagia since 1 week](https://vaishnavimaguluri.blogspot.com/2023/07/general-medicine-case-report-osce.html)
 - [2022 Feb - 70Y Female drowsy with h/o fall and vomiting](https://vaishnavimaguluri.blogspot.com/2022/02/this-is-online-e-loo-discuss-our.html)
+
+A lot more can be found here
+- [Case mirrors](https://classworkdecjan.blogspot.com/2022/02/udhc-cases-mirror-2.html)
