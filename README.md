@@ -20,5 +20,3 @@ A lot more can be found here
 ## How to Contribute
 
 Just open an issue expressing your interest in contributing and we'll get in touch!
-
-
