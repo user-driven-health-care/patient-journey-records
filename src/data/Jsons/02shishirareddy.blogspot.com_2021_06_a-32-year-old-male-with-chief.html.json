@@ -1,0 +1,25 @@
+{
+    "AGE": 38,
+    "GENDER": "Male",
+    "APPETITE": "Normal",
+    "DIET": "Mixed",
+    "BOWEL AND BLADDER MOVEMENTS": "Regular",
+    "PERSONAL HISTORY": "",
+    "SLEEP": "Adequate",
+    "ADDICTIONS": "alcoholic (1litre of whiskey per day), smoked 2-4 cigarettes daily",
+    "FAMILY HISTORY": "Not significant",
+    "GENERAL EXAMINATION": "The patient was conscious, well oriented to persons, Not oriented to place and time. There was no pallor, icterus, clubbing, cyanosis, lymphadenopathy, and edema.",
+    "TEMPERATURE": "Afebrile",
+    "PULSE RATE": 70,
+    "BLOOD PRESSURE": "110/70 mmHg",
+    "RESPIRATORY RATE": 20,
+    "SPO2": 99,
+    "GRBS": 269,
+    "JVP": "Not mentioned",
+    "SYSTEMIC EXAMINATION": {
+        "CVS": "S1, S2 heard, Soft, No tenderness, no palpable mass.",
+        "CNS": "Conscious, not oriented to time , place and person"
+    },
+    "DIAGNOSIS": "Not mentioned",
+    "TREATMENT": "Not mentioned"
+}

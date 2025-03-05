@@ -1,0 +1,72 @@
+{
+    "CaseId": "N/A",
+    "Title": "Heart failure with preserved EF in a 55-year-old male with past history of DM, HTN and CVA",
+    "Demographics": {
+        "Age": "55 years old"
+    },
+    "ClinicalPresentation": [
+        "Shortness of breath"
+    ],
+    "PastMedicalHistory": [
+        "DM (Diabetes Mellitus)",
+        "HTN (Hypertension)",
+        "CVA (Cerebrovascular Accident)"
+    ],
+    "Investigations": {
+        "InitialLabs": {
+            "Sodium": [
+                "138 mEq/L",
+                "141 mEq/L",
+                "139 mEq/L"
+            ],
+            "Potassium": [
+                "3.8 mEq/L",
+                "3.8 mEq/L",
+                "3.4 mEq/L"
+            ],
+            "Chloride": [
+                "101 mEq/L",
+                "98 mEq/L",
+                "101 mEq/L"
+            ]
+        },
+        "InitialUrineAnalysis": "N/A",
+        "ECG": "Not specified",
+        "ImagingStudies": "Not specified"
+    },
+    "Interventions": [
+        {
+            "DrugName": "Inj Lasix",
+            "Duration": "2 days",
+            "Day": 1
+        },
+        {
+            "DrugName": "Inj Augmentine",
+            "Day": 1
+        },
+        {
+            "DrugName": "Inj Pan",
+            "Day": 2
+        },
+        {
+            "DrugName": "Inj Azithromycin",
+            "Day": 2
+        },
+        {
+            "DrugName": "Inj Hydrocort",
+            "Day": 3
+        }
+    ],
+    "Diagnosis": [
+        "Heart failure with preserved EF"
+    ],
+    "Disposition": [
+        "Advised discharge after losing about 7 kgs of weight and improvement in symptoms"
+    ],
+    "FollowUp": "Review after 15 days to the OPD",
+    "EmergencyInstructions": "In case of any emergency, immediately contact your consultant doctor or attend emergency department.",
+    "PreventiveAdvice": [
+        "Avoid self-medication without doctor's advice",
+        "Do not miss medications"
+    ]
+}

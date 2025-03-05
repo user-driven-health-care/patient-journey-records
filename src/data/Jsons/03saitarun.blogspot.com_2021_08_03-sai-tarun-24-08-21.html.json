@@ -1,0 +1,19 @@
+{
+    "symptoms": [
+        "Septic shock"
+    ],
+    "treatment": [
+        "Iv fluids NS and RL at 75 ml/hr",
+        "INJ CEFTRIAXONE 1GM IV/BD",
+        "INJ METROGYL 100ML IV/TID",
+        "INJ PAN 40MG IV/BD",
+        "INJ ZOFER 4MG IV/SOS",
+        "INJ OPTINEURON 1amp in 100ml NS IV/OD",
+        "TAB PCM 650MG TID",
+        "TAB CHYMORAL FORTE TID",
+        "Strict I/O Charting"
+    ],
+    "notes": [
+        "Obese, tenderness in epigastric and hypochondrial region."
+    ]
+}

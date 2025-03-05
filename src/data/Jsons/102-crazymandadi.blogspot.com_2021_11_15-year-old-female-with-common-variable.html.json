@@ -1,0 +1,27 @@
+{
+    "AGE": 15,
+    "GENDER": "Female",
+    "APPETITE": "Not mentioned",
+    "DIET": "Not mentioned",
+    "BOWEL AND BLADDER MOVEMENTS": "Not mentioned",
+    "PERSONAL HISTORY": "15 year old female with Common variable Immunodeficiency syndrome and auto immune hemolytic anemia",
+    "SLEEP": "Not mentioned",
+    "ADDICTIONS": "Not mentioned",
+    "FAMILY HISTORY": "Not significant",
+    "GENERAL EXAMINATION": "Not mentioned",
+    "TEMPERATURE": "Not mentioned",
+    "PULSE RATE": "Not mentioned",
+    "BLOOD PRESSURE": "Not mentioned",
+    "RESPIRATORY RATE": "Not mentioned",
+    "SPO2": "Not mentioned",
+    "GRBS": "Not mentioned",
+    "JVP": "Not mentioned",
+    "SYSTEMIC EXAMINATION": {
+        "CVS": "Not mentioned",
+        "RS": "Not mentioned",
+        "ABDOMEN": "Not mentioned",
+        "CNS": "Not mentioned"
+    },
+    "DIAGNOSIS": "Common variable Immunodeficiency syndrome and auto immune hemolytic anemia",
+    "TREATMENT": "Not mentioned"
+}

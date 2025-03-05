@@ -1,0 +1,51 @@
+{
+    "symptoms": [
+        "tenderness in right hypochondrium, epigastrium, umbilical",
+        "lymphocytic leucocytosis",
+        "thrombocytopenia"
+    ],
+    "physical_examination": {
+        "consciousness": "coherent and cooperative",
+        "pallor": "no",
+        "icterus": "no",
+        "cyanosis": "no",
+        "lymphadenopathy": "no",
+        "edema": "no",
+        "clubbing_of_fingers": "no",
+        "cvs": {
+            "heart_sounds": [
+                "S1 & S2 heard"
+            ],
+            "murmurs": "none",
+            "cardiac_thrills": "none"
+        },
+        "abdomen": {
+            "shape": "scaphoid",
+            "tenderness": "present in right hypochondrium, epigastrium, umbilical",
+            "palpable_mass": "none",
+            "hernial_orifices": "normal",
+            "liver_and_spleen": "not palpable"
+        },
+        "percussion": {
+            "liver_span": "normal"
+        },
+        "auscultation": {
+            "bowel_sounds": "yes"
+        },
+        "cns": "intact",
+        "gait": "normal"
+    },
+    "investigations": [
+        "USG abdomen: gallbladder wall edema, mild ascites, right kidney mild hydronephrosis",
+        "chest x-ray",
+        "hematology report: WBC: lymphocytic leucocytosis, platelet: thrombocytopenia",
+        "blood group: AB+ve",
+        "bilirubin level:",
+        "direct bilirubin: elevated",
+        "blood urea:",
+        "serum electrolytes:"
+    ],
+    "diagnosis": "dengue as the test for NS1 antigen is positive",
+    "treatment": null,
+    "comments": []
+}
