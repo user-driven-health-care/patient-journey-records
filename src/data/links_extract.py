@@ -4,7 +4,7 @@ import os
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
-OUTPUT_DIR = "D:\Anushka\GitHub\moonshot_project\src\data\links"
+OUTPUT_DIR = "src\data\links"
 
 def extract_filtered_blogspot_links(url):
     """Extracts filtered blogspot links from a given URL."""
@@ -25,7 +25,7 @@ def extract_filtered_blogspot_links(url):
         return links
 
     except requests.exceptions.RequestException as e:
-        print(f"❌ Error fetching the URL {url}: {e}")
+        print(f"Error fetching the URL {url}: {e}")
         return []
 
 def collect_all_blogspot_links(base_url, start_page, end_page):
@@ -35,36 +35,32 @@ def collect_all_blogspot_links(base_url, start_page, end_page):
         url = base_url.format(i)
         links = extract_filtered_blogspot_links(url)
         all_links.extend(links)
+        print(all_links)
     return all_links
 
-def save_links_in_batches(links, batch_size=10, output_dir="blogspot_links"):
-    """Saves links in CSV files, each containing a batch of up to `batch_size` links."""
+def save_links(links, output_dir="src/data/links"):
+    """Saves all links in a single CSV file without overwriting."""
     os.makedirs(output_dir, exist_ok=True)  # Ensure output directory exists
-    batch_count = 1  # Counter for batch file naming
+    filename = os.path.join(output_dir, "blogpost_links.csv")
 
-    for start in range(0, len(links), batch_size):
-        batch_links = links[start:start + batch_size]
-        filename = os.path.join(output_dir, f"links_batch_{batch_count}.csv")
+    with open(filename, "w", newline="", encoding="utf-8") as file:
+        writer = csv.writer(file)
+        writer.writerow(["Links"])  # Add header
+        writer.writerows([[link] for link in links])  # Write all links
 
-        with open(filename, "w", newline="", encoding="utf-8") as file:
-            writer = csv.writer(file)
-            writer.writerow(["Links"])  # Add header
-            writer.writerows([[link] for link in batch_links])
-
-        print(f"Saved {len(batch_links)} links to {filename}")
-        batch_count += 1
+    print(f"Saved {len(links)} links to {filename}")
 
 def main():
     base_url = "https://classworkdecjan.blogspot.com/2022/02/udhc-cases-mirror-{}.html"
     start_page = 2
     end_page = 5
 
-    print("🔎 Collecting blogspot links...")
+    print("Collecting blogspot links...")
     links = collect_all_blogspot_links(base_url, start_page, end_page)
 
     if links:
-        print(f"Total {len(links)} links collected. Saving in batches...")
-        save_links_in_batches(links, 10, OUTPUT_DIR)
+        print(f"Total {len(links)} links collected.")
+        save_links(links, OUTPUT_DIR)
     else:
         print("No links found.")
 

@@ -1,0 +1,232 @@
+{
+  "metadata": {
+    "url": "https://potlapallirashmitha.blogspot.com/2022/01/pericardial-effusion-presenting-as.html",
+    "datetime": "2022-01-12T08:42:00-0800"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "6 months prior to January 2021",
+      "useractivity": "Patient experienced chest pain",
+      "symptom": "Chest pain, pricking type, subsiding on its own, no radiation",
+      "diagnosis": "",
+      "treatment": ""
+    },
+    {
+      "ordinal": 2,
+      "time": "1 month prior to January 2021",
+      "useractivity": "Patient experienced shortness of breath",
+      "symptom": "Shortness of breath grade 2 (MMRC)",
+      "diagnosis": "",
+      "treatment": ""
+    },
+    {
+      "ordinal": 3,
+      "time": "1 day prior to January 2021",
+      "useractivity": "Patient's shortness of breath worsened",
+      "symptom": "Shortness of breath grade 4",
+      "diagnosis": "",
+      "treatment": ""
+    },
+    {
+      "ordinal": 4,
+      "time": "20 days prior to January 2021",
+      "useractivity": "Patient experienced decreased appetite",
+      "symptom": "Decreased appetite",
+      "diagnosis": "",
+      "treatment": ""
+    },
+    {
+      "ordinal": 5,
+      "time": "15 days prior to January 2021",
+      "useractivity": "Patient experienced generalised weakness",
+      "symptom": "Generalised weakness",
+      "diagnosis": "",
+      "treatment": ""
+    },
+    {
+      "ordinal": 6,
+      "time": "10 days prior to January 2021",
+      "useractivity": "Patient experienced pain abdomen",
+      "symptom": "Pain abdomen, diffuse predominantly in the epigastric region, non radiating",
+      "diagnosis": "",
+      "treatment": ""
+    },
+    {
+      "ordinal": 7,
+      "time": "5 days prior to January 2021",
+      "useractivity": "Patient experienced B/L Lower limb, upper limb edema and facial puffiness",
+      "symptom": "B/L Lower limb, upper limb edema and facial puffiness",
+      "diagnosis": "",
+      "treatment": ""
+    },
+    {
+      "ordinal": 8,
+      "time": "January 2021",
+      "useractivity": "Patient came to OPD",
+      "symptom": "Chest pain, shortness of breath, orthopnoea, paroxysmal dyspnoea, palpitations, decreased appetite, generalised weakness, pain abdomen, B/L Lower limb, upper limb edema and facial puffiness",
+      "diagnosis": "Provisional diagnosis of Heart failure",
+      "treatment": ""
+    },
+    {
+      "ordinal": 9,
+      "time": "January 2021 (after OPD visit)",
+      "useractivity": "Blood investigations and Xray were done",
+      "symptom": "",
+      "diagnosis": "Pericardial effusion, Cardiac tamponade",
+      "treatment": ""
+    },
+    {
+      "ordinal": 10,
+      "time": "January 2021 (after diagnosis of Cardiac tamponade)",
+      "useractivity": "Pericardiocentasis was done",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Pericardiocentasis, IVF 0.9% NS, Inj Noradrenaline"
+    },
+    {
+      "ordinal": 11,
+      "time": "20 minutes after pericardiocentasis",
+      "useractivity": "Patient lost consciousness",
+      "symptom": "Loss of consciousness, hypotension",
+      "diagnosis": "",
+      "treatment": "IVF 0.9% NS, Inj Noradrenaline"
+    },
+    {
+      "ordinal": 12,
+      "time": "After pericardiocentasis and treatment",
+      "useractivity": "Patient regained consciousness",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": ""
+    },
+    {
+      "ordinal": 13,
+      "time": "January 2021 (after pericardiocentasis and treatment)",
+      "useractivity": "Pericardial fluid analysis was sent",
+      "symptom": "",
+      "diagnosis": "Exudative pericardial effusion",
+      "treatment": ""
+    },
+    {
+      "ordinal": 14,
+      "time": "January 2021 (after pericardial fluid analysis)",
+      "useractivity": "Etiology of pericardial effusion was thought over",
+      "symptom": "",
+      "diagnosis": "Tuberculosis, Malignancy",
+      "treatment": ""
+    },
+    {
+      "ordinal": 15,
+      "time": "January 2021 (after etiology of pericardial effusion was thought over)",
+      "useractivity": "Thyroid profile was sent",
+      "symptom": "",
+      "diagnosis": "Subclinical hypothyroidism",
+      "treatment": "Tab Thyronorm 50 mcg od"
+    },
+    {
+      "ordinal": 16,
+      "time": "January 2021 (after thyroid profile)",
+      "useractivity": "Serum protein electrophoresis was sent",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": ""
+    },
+    {
+      "ordinal": 17,
+      "time": "January 2021 (after serum protein electrophoresis)",
+      "useractivity": "Bone marrow biopsy was done",
+      "symptom": "",
+      "diagnosis": "Multiple Myeloma",
+      "treatment": ""
+    },
+    {
+      "ordinal": 18,
+      "time": "January 2021 (after bone marrow biopsy)",
+      "useractivity": "Treatment for Multiple Myeloma was started",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj Bortezomib, Inj Cyclophosphamide, Tab Dexamethasone, Tab Septran Ds, Tab Pan 40 mg od"
+    },
+    {
+      "ordinal": 19,
+      "time": "6 months after treatment",
+      "useractivity": "Xray was done",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": ""
+    },
+    {
+      "ordinal": 20,
+      "time": "6 months after treatment",
+      "useractivity": "Patient's condition improved",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": ""
+    },
+    {
+      "ordinal": 21,
+      "time": "October 2021",
+      "useractivity": "Patient's last chemotherapy session",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": ""
+    },
+    {
+      "ordinal": 22,
+      "time": "November 2021",
+      "useractivity": "Patient missed chemotherapy session",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": ""
+    },
+    {
+      "ordinal": 23,
+      "time": "December 2021",
+      "useractivity": "Patient planned for chemotherapy session",
+      "symptom": "Pain in the right eye",
+      "diagnosis": "",
+      "treatment": ""
+    },
+    {
+      "ordinal": 24,
+      "time": "25th December 2021",
+      "useractivity": "Patient applied ointment on forehead",
+      "symptom": "Redness around the orbit, watering of eyes, pain and tenderness around the right eye",
+      "diagnosis": "",
+      "treatment": ""
+    },
+    {
+      "ordinal": 25,
+      "time": "After 25th December 2021",
+      "useractivity": "Patient was taken to hospital",
+      "symptom": "Fever, altered sensorium",
+      "diagnosis": "Orbital cellulitis, Acute kidney injury (Pre-renal/Renal), Uraemic encephalopathy",
+      "treatment": "Hemodialysis, Antibiotics"
+    },
+    {
+      "ordinal": 26,
+      "time": "January 8th 2022",
+      "useractivity": "Patient developed erythematous lesions on calf region",
+      "symptom": "Erythematous lesions, fever",
+      "diagnosis": "",
+      "treatment": ""
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/a/AVvXsEj1agSkGgrBjCmo1pEUoabGDKyz_vfGz93Rv4-vwrV27ZB6AKJpY_DETWuonFv6hqzK0sWy3UcuZpqbJ6YNkkjpnvx5tfbHD_21U6AuyW51mf2U54SvWtC4U5-tqcxWyfB8cHKM9pcWYGtXXk7cqMGFSy4dZQLT57t8N0iXm_uJW9gbWSBWoCS5ZHUvrg=w150-h200",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEgAXOhIj28Eyeolu_SbP3nJiiIAL3id4XSzdNtpj149kW0wftw03JbWEJl-MrrU6W8917u_PL35CpeW1PlvoCo_fewogmX2PJJGwRfKvRa7JAXGnv-i7B9UGO2B2Fz1_0_ensVD1bMCMQSq2WtYv_jNJyUrDfI17pHJGTGOa1-Ay_Djsgb-MO5zGnrkJA=w200-h158",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEjVmpZdfQJzwFD3NgjVc58ltOGp0to5_o33k-_EwL1FFjA05JB74dgH30eJaXx4k0xXO1TyVj3jGsOM3Vx6c5z9iDHF5nkh0ZXqaSosGcjebtqKTWRP60Xlcm-r4z0zEGufAlF-IP_pEE4u1ETuu7n6vyXcSLdtlltn5D99Sw1dZb1FitoqS0CDqzRcXg=w200-h150",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEhyxtgvthj4oh0YsSvxLqXU1qH4p12quqKM16vxDk8tUWhPLF9crIMydhmPCWW2Hm1GK1sBgOwlxti2M5Xr8Cp3B9aSKnHgTRYYPrVcLYlJ-aqTJ_y0SOilfDHLh7rUqVP0M8MolPr9V1Q4c77k0sdbt_PgT1dT7fB7wntjB2OkyiOkbTvPXuX3wLt9RA=w141-h200",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEi5WK2F0T2gDCQ3W6GfFF4WRnVUgIczBwp3u_r3zvMAES_IokTyTZroUG7Q8zNFqeM5V4_IKGSSbvM7GQZEFV9JDxlSbj_bW27-tnFUdY58p2bxhoJaZJu9gfu1E2C6m_D2iNDjX0xCiVxMedaJhYado61zkmBedjXXx98OsjKrZhW9lbdghTGxVDL8_Q=w200-h151",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEi_bCTNy-PA89PHep96G_7ySEUq_qsSAD3k9leTiCf68s2e6PCTsTBqUM-axoy4BZrhj-6ALvd8o4xtl_ubDmaQ0_EuAT18YKVDYYSpeHN31_QX6zY-1xsGwx8qMZBIYDlqcd-BviCMv_pbJSDfcQZ5CzM3chhkf5nD3k-hYSLKb3RerxXw6VixEnGcng=w200-h156",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEg1RsOYUdEb3ukMeErjZpWD-t6mAO7BxnC8SMsQI5IZWLal66-9kbbRhEUu2mrZW5685MoN3IcaXeItBEw-Aa4_i2taN7xYYNTh2CcChncuVV7BF0hnEfZdztiomMs2VZ4CS6gZ35kJQbW5ZFdRlU-o_-_qzDZ_MhHCUVgQO_r_VERI_3ISXdHbJaPqfw=w200-h150",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEixO--U-E-B3yIAdbGmykKAkDtxaxWzjyuov5DWpEUvJy_2UHGkFQ9SZGjNy83JWwtFEB8oBdX1AOxmHuDjmo3dc0cxmO4a591arjayYAR8_IPXwXButyr_9rtRgX8BBf6lMRJ83pVvKF9NC2vxT1O6bI3buc0Bxr6Hns31fyVVWNX2YBw2Ux5N9zjDCg=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEjTkeFVa21fHSJe_fghLo1-EvsMq-8O-hRrQZK2iHByrhhc5Uq_JtSB79V8UKxnCzb5TiceGzRoqWramzK29arIM_W-rhGm8R5o103nzLflAheQpWfRcirXjwwPFcemyqlyGyj8V7JkzEUBCLrE1c0NdiBT6ebkXcIj10OvkLR8DxvdjbT3fmf4qNXiLw=w168-h200",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEjiTBZDSnL_3JZf9CP1BmFsAzGLuXgym07J-fD7UBYSnxfApgm_uFj-YieyvPkOmwURy_FINQnDQ6Z2RlMaBNJoE4nua5piVl8iX0KayHEvSPo4GgmdKtfaHxDGaB-ev2JE9nZfOZ6VHk_n2sFUa4Q1G5GK7aNXbHTKIzZfCLHSDaLjACk_3hJzEor7Vg=w112-h200",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEjELHanPrkCImiTOCsJSOYNcUBHBasHpW1t8oN6wYIDoh9Dxsbkqa9JZmv78JLTWHjelhOXlgWk7XgpBxDeQ-JG5FuI8WgVH5Vly_JK5DX_CtSNf06SBTDjY39Lj8vTyQn24uiOxj-o1TQefl4usRqB-8kjdd9d4WgfWtezQtb0O1OebcETT2-SvR_tKg=w200-h143",
+    "https://potlapallirashmitha.blogspot.com/www.blogger.com/img/blogger_logo_round_35.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-d1cKpILkeftFX5y4l5PNqlFfmDrIk27C_u2jhGaCv5sjIH6OlmH-D9b0DUwu4EXXGmPdg_rv3BIdkc7_Dw_L_tGHXzHuEp2Jq5dpb54ByFefDrld2nHbfCOah1W4XZ1-Noh3rZSI4vM/s1600/1604639267396674-1.png",
+    "https://potlapallirashmitha.blogspot.com/blob:https://www.blogger.com/cc5ff820-9a4c-4d5d-9f94-fd83db79031e"
+  ]
+}

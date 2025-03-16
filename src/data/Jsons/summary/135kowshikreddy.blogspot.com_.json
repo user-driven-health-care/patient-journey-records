@@ -1,0 +1,27 @@
+{
+    "AGE": 42,
+    "GENDER": "Female",
+    "APPETITE": "Not mentioned",
+    "DIET": "Not mentioned",
+    "BOWEL AND BLADDER MOVEMENTS": "Not mentioned",
+    "PERSONAL HISTORY": "No personal history details provided",
+    "SLEEP": "Not mentioned",
+    "ADDICTIONS": "Not mentioned",
+    "FAMILY HISTORY": "Not significant",
+    "GENERAL EXAMINATION": "No general health findings provided",
+    "TEMPERATURE": "Not mentioned",
+    "PULSE RATE": "Not mentioned",
+    "BLOOD PRESSURE": "Not mentioned",
+    "RESPIRATORY RATE": "Not mentioned",
+    "SPO2": "Not mentioned",
+    "GRBS": "Not mentioned",
+    "JVP": "Not mentioned",
+    "SYSTEMIC EXAMINATION": {
+        "CVS": "Normal S1 S2 heard, No murmurs, Apex beat felt on 5 th intercoastal space, No raised jvp",
+        "RS": "Chest expansion was increased on right side, Vocal fremitus was increased on left infra clavicular and mammary region, Tubular breath sounds decreased, Increased vocal resonance on left infra clavicular and mammary ( bronchophony and whispering pectoriloquy, Crepitation were felt on left infra axillary region)",
+        "ABDOMEN": "Not mentioned",
+        "CNS": "No focal deficits seen"
+    },
+    "DIAGNOSIS": "Fibrosis in the left apical region possibly due to exacerbated COPD or old pulmonary tuberculosis.",
+    "TREATMENT": "Not mentioned"
+}
