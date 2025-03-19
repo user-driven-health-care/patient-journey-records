@@ -108,8 +108,34 @@ def process_csv(input_csv_path, output_csv_path):
     
     print(f"All classifications complete. Results saved to {output_csv_path}.")
 
+def filter_cardiac_links(input_file, output_file):
+    """
+    Reads a CSV file with columns 'URL' and 'Classification', filters out rows where the classification is 'cardiac',
+    writes these rows to an output CSV file, and returns a list of the filtered URLs.
+    
+    :param input_file: Path to the input CSV file.
+    :param output_file: Path to the output CSV file for filtered rows.
+    :return: List of URLs classified as 'cardiac'.
+    """
+    cardiac_rows = []
+    # Read the CSV and filter rows with classification 'cardiac'
+    with open(input_file, mode='r', newline='', encoding='utf-8') as infile:
+        reader = csv.DictReader(infile)
+        for row in reader:
+            if row['Classification'].strip().lower() == 'cardiac':
+                cardiac_rows.append(row)
+    
+    # Write the filtered rows to the output CSV
+    with open(output_file, mode='w', newline='', encoding='utf-8') as outfile:
+        fieldnames = ['URL', 'Classification']
+        writer = csv.DictWriter(outfile, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(cardiac_rows)
+
 # Example usage:
 if __name__ == "__main__":
     input_csv = "src\data\links\\blogpost_links.csv"  
-    output_csv = "src\data\links\classified_blogpost_links.csv"  # Output CSV file with all classifications
-    process_csv(input_csv, output_csv)
+    classified_csv = "src\data\links\classified_blogpost_links.csv"  # Output CSV file with all classifications
+    filter_cardiac_csv = "src\data\links\\filtered_blogpost_links.csv"
+    # process_csv(input_csv, classified_csv)
+    filter_cardiac_links(classified_csv, filter_cardiac_csv)

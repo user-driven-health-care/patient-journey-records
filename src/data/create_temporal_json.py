@@ -1,12 +1,14 @@
+import os
+import re
+import csv
+import json
 import requests
 from bs4 import BeautifulSoup
-import json
-import re
 from datetime import datetime
-import os
+
 from groq import Groq
 
-OUTPUT_DIR = "src\data\Jsons\temporal"
+OUTPUT_DIR = "src\\data\\Jsons\\temporal"
 
 def extract_blog_content(url):
     """Extract the content from a blog post URL."""
@@ -55,23 +57,22 @@ def generate_timeline_with_groq(content):
     """Use Groq API with Llama 3 model to generate a structured timeline."""
     client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
     
-    prompt = f"""
-    Given the following medical case blog content, extract a timeline of events in JSON format.
+    prompt = f"""Given the following medical case blog content, extract a timeline of events in JSON format.
     Each timeline entry should have: ordinal (number), time (specific time mentioned), useractivity (what happened), 
-    symptom (any symptoms mentioned), diagnosis (any diagnoses), and treatment (any treatments).
-    
+    symptom (any symptoms mentioned), diagnosis (any diagnoses), treatment (any treatments) and notes (include any additional details not captured in the other fields such as patient demographics, physical examination findings, investigation results, lab measurements, and discussion details).
+
     Use ONLY information explicitly stated in the content. If a field has no information, leave it as an empty string.
     Start a new timeline entry ONLY when a new time frame is mentioned.
     Use the exact medical terminology and descriptions from the text.
-    Once the results are ready, think step by step and make sure the the 'time' parameter in timeline is strictly ascending. Reorder the 'ordinal' entries if necessary. 
-    
+    Ensure that all timeline entries are sorted in chronological order from the *earliest* to the *latest* event. If time descriptions are relative (such as '1 day prior' comes chronologically after '5 days prior' and not before '20 days prior'), interpret them relative to the reference event date so that events occurring further back in time appear first. After sorting, reassign the ordinal numbers sequentially to reflect the correct temporal order.
+
     Blog content:
     {content}
     
     Format the response as a valid JSON array of timeline entries like this:
     ```json
     [
-      {{"ordinal": 1, "time": "specific time mentioned", "useractivity": "what happened", "symptom": "symptoms mentioned", "diagnosis": "diagnoses mentioned", "treatment": "treatments mentioned"}},
+      {{"ordinal": 1, "time": "specific time mentioned", "useractivity": "what happened", "symptom": "symptoms mentioned", "diagnosis": "diagnoses mentioned", "treatment": "treatments mentioned", "notes": "additional information mentioned"}},
       ...
     ]
     ```
@@ -126,12 +127,16 @@ def save_json_to_file(data, filename):
     print(f"JSON saved to {filename}")
 
 def main():
-    url = input("Enter the blog post URL: ")
-    case_data = generate_case_json(url)
-    filename = filename = os.path.join(OUTPUT_DIR, f"{url.split('/')[-1].split('.')[0]}_case.json")
-    save_json_to_file(case_data, filename)
-    print("\nGenerated JSON:\n")
-    print(json.dumps(case_data, indent=2))
+    input_file = "src\data\links\\filtered_blogpost_links.csv"
+    with open(input_file, 'r', encoding='utf-8') as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            url = row['URL']
+            case_data = generate_case_json(url)     # row 30
+            filename = os.path.join(OUTPUT_DIR, f"{url.split('/')[-1].split('.')[0]}_case.json")
+            save_json_to_file(case_data, filename)
+            print("\nGenerated JSON:\n")
+            print(json.dumps(case_data, indent=2))
 
 if __name__ == "__main__":
     main()

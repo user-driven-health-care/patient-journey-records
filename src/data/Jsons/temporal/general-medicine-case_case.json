@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "url": "https://akshithakasani81.blogspot.com/2021/08/general-medicine-case.html",
+    "datetime": "2021-08-09T12:37:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "2 years ago",
+      "useractivity": "patient visited local Hospital",
+      "symptom": "loss of appetite and generalized weakness",
+      "diagnosis": "type 2 diabetes milletus",
+      "treatment": "Oral hyperglycemic agents",
+      "notes": "patient was apparently asymptomatic before this"
+    },
+    {
+      "ordinal": 2,
+      "time": "2 months ago",
+      "useractivity": "patient experienced sudden onset of giddiness and generalized weakness",
+      "symptom": "giddiness and generalized weakness",
+      "diagnosis": "",
+      "treatment": "IV fluids, shifted to TAB. Metformin 500 mg PO/OD",
+      "notes": "symptoms reduced in 30 minutes"
+    },
+    {
+      "ordinal": 3,
+      "time": "5 days ago",
+      "useractivity": "patient had loose stools and vomiting",
+      "symptom": "loose stools and vomiting",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": "symptoms subsided on their own"
+    },
+    {
+      "ordinal": 4,
+      "time": "3 days ago",
+      "useractivity": "patient started experiencing right buttock pain",
+      "symptom": "right buttock pain, pricking type of pain radiating to thighs",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": "no history of trauma or injections"
+    },
+    {
+      "ordinal": 5,
+      "time": "1 week ago",
+      "useractivity": "patient started experiencing fever",
+      "symptom": "high grade, intermittent fever",
+      "diagnosis": "",
+      "treatment": "medication, but fever did not subside",
+      "notes": "no chills and rigor"
+    },
+    {
+      "ordinal": 6,
+      "time": "OPD visit",
+      "useractivity": "patient visited OPD",
+      "symptom": "generalized weakness, loss of appetite, lack of sleep",
+      "diagnosis": "",
+      "treatment": "antibiotics",
+      "notes": "patient is conscious, coherent, co-operative, Temp-afebrile, PR-91 bpm, BP-100/70 mm of Hg, RR-20/min, Spo2-98% at room air, Pallor-present"
+    },
+    {
+      "ordinal": 7,
+      "time": "DAY 1",
+      "useractivity": "treatment started",
+      "symptom": "",
+      "diagnosis": "PRE-RENAL ACUTE KIDNEY INJURY SECONDARY TO ACUTE GE",
+      "treatment": "IVF-NS,RL@100 ml /hr, INJ.CEFTRIAXONE 1GM/IV/BD, INJ.PAN 40MG IV/OD, INJ.ZOFER 4MG IV/SOS, INJ.H.MIXTARD SC/BD, INJ.OPTINEURON 1 AMP in 100 ml NS/IV/OD, BP/PR/RR/TEMP CHARTING, STRICT I/O CHARTING",
+      "notes": "investigations: Chest X-ray, ECG, Hb-8.5, Tlc-14,200, Plt-1.5, S. Urea-103, S. Creatinine -3.1, Sodium-131, Potassium -3.5, Chloride-99"
+    },
+    {
+      "ordinal": 8,
+      "time": "DAY 2",
+      "useractivity": "treatment continued",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "IVF-NS,RL@100 ml /hr, INJ.CEFTRIAXONE 1GM/IV/BD, INJ.PAN 40MG IV/OD, INJ.ZOFER 4MG IV/SOS, INJ.H.MIXTARD SC/BD, INJ.OPTINEURON 1 AMP in 100 ml NS/IV/OD, BP/PR/RR/TEMP CHARTING, STRICT I/O CHARTING",
+      "notes": "investigations: Hb-7.7, Tlc-21,800, Plt-3.49, S. Urea-51, S.creatinine-2.4, Sodium-138, Potassium -3.9, Chloride-100"
+    },
+    {
+      "ordinal": 9,
+      "time": "DAY 3",
+      "useractivity": "treatment continued",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "IVF-NS,RL@100 ml /hr, INJ.CEFTRIAXONE 1GM/IV/BD, INJ.PAN 40MG IV/OD, INJ.ZOFER 4MG IV/SOS, INJ.H.MIXTARD SC/BD, INJ.OPTINEURON 1 AMP in 100 ml NS/IV/OD, TAB.ULTRACET PO/QID/1/2 TAB, CHLORHEXIDINE MOUTH WASH/BD, TAB.PCM 650 MG PO/BD, BP/PR/RR/TEMP CHARTING, STRICT I/O CHARTING",
+      "notes": ""
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbHRMAuMBQ95pf1SZ1OhiL9XYvw185Q8D2bcjDlL3o5vi_QS4CAyrxmSqVkeLURfVZ2_LZGnSs62xD8EwxY3lBV0AHYGBaOng0fuxPswKDArRPfCABh6p6cHES63VSkaNwulMzD-MpMmc4/s1600/1628657661593094-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH_zm7zJqCeANvBAbc_v0SIEhupAIDkmHrGkX7dDXnAPm1VLUfk96JP84WQxc3QNBottheXu4sqSa2EDiHLm8S2g0361G0WzhYjeQSrj2Lv2EHB0iNiMlXksonkGNln09QnchFh8LIvQ5h/s1600/1628657632387456-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIXTv3sV994_Rzyi25Wt4cib7wCI75ng4kf_w5-9x8eLkQ0azCaloc9T9lcqmNgG1iMOGVdW8B2naooT7bWubkoItB9pIOKjSEOYoblB8Gy2FpNeU6yZk6yr7WLb1-BoIgmAQPBqiH6f0i/s1600/1628657840528249-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVvYk75U81U2vJQVJMOLAoO8rvwRFUHZmqA28i3H1_4oE63m75flzFTb5PqA6eYc7kUMpmPMmNQHxVy_ikwTsuflsSvnYldOniTEGB0fqi8nWcbnOO7fiXMMC9CMYp-TepVFebjnnqVJ9l/s1600/1619844325985766-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3ZsbSZu93LzG7BMxdZWJGPvigkMd3-i6wI0rcPUq-giL5VrloJIvD8_z0RH2pASmkLPpBY-HilBY87ASYsvVI2M7PB_F-ZnBKPbFyQEJ0oxE-3phgTH_ldWT-y-_GZQ-CwFCTLm0oaoCj/s1600/1632247415515154-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDRPWGeT3WXQVmqlQQuUK8EcfqE40OeXJ-LVtsgi1JyFZ_H7pW9H0uv1SwvKfeiGV8fEM6RVadevAuNyMPsvNvLHm_iFvVD1HxgHCBScsSmT0nuX6NO6l2S-ZDnDPMRmzqTBHQGm-adSqF/s1600/1619864154162950-0.png"
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "url": "https://93harika.blogspot.com/2021/10/42-yr-old-male-electrician-came-to.html",
+    "datetime": "2021-10-18T19:54:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "1 year back",
+      "useractivity": "diagnosed as TB, used medication for 4 days and stopped",
+      "symptom": "",
+      "diagnosis": "TB",
+      "treatment": "medication for 4 days",
+      "notes": "patient was asymptomatic till July 21"
+    },
+    {
+      "ordinal": 2,
+      "time": "July 21",
+      "useractivity": "admitted to hospital",
+      "symptom": "SOB, pedal edema",
+      "diagnosis": "HFrEF with EF= 32%, COPD, LEFT ULCER ON FOOT",
+      "treatment": "diuretics, beta blockers",
+      "notes": "patient was managed conservatively"
+    },
+    {
+      "ordinal": 3,
+      "time": "15 days after discharge",
+      "useractivity": "continued to consume alcohol, increased binge drinking since 10 days",
+      "symptom": "cough, productive, low grade fever, SOB progressed to grade 4, orthopnea, abdominal distension, bilateral pedal edema",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": "patient had a history of alcoholic 180ml whiskey/day since 20 years, gutka consumption since 20 years"
+    },
+    {
+      "ordinal": 4,
+      "time": "4-5 days prior to admission",
+      "useractivity": "experienced SOB grade 3, abdominal distension, bilateral pedal edema",
+      "symptom": "SOB grade 3, abdominal distension, bilateral pedal edema",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": "patient had a history of chronic alcoholism and gutka consumption"
+    },
+    {
+      "ordinal": 5,
+      "time": "admission",
+      "useractivity": "admitted to hospital",
+      "symptom": "SOB grade 4, abdominal distension, bilateral pedal edema",
+      "diagnosis": "HFrEF with EF=27%, COPD, LEFT ULCER ON FOOT",
+      "treatment": "oxygen inhalation, propped up posture, fluid restriction, salt restriction, inj. lasix, tab. ecospirin-av, inj. thiamine, neb with ipratropium, duolin",
+      "notes": "patient was conscious, coherent, cooperative, afebrile, BP: 90/60mmHg, PR: 112bpm, RESP. RATE: 34CPM, Spo2: 89% on room air"
+    },
+    {
+      "ordinal": 6,
+      "time": "19/10/2021",
+      "useractivity": "pleural tap done",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": "pleural fluid analysis: volume - 3ml, appearance - clear, colour - pale yellow, total count - 10 cells, DC - 100% L, RBC - nil, others - nil"
+    },
+    {
+      "ordinal": 7,
+      "time": "20/10/2021",
+      "useractivity": "SOAP notes day 2",
+      "symptom": "Sob decreased from grade 4 to grade 2, nocturnal cough, cough aggravated on lying down, swelling in left upper limb, thrombophlebitis",
+      "diagnosis": "HFrEF with EF=27% secondary to ACUTE DECOMPENSATION ON CHRONIC HEART FAILURE",
+      "treatment": "head end elevation, oxygenation, fluid restriction, salt restriction, inj. lasix, T. Met XL, neb with ipratropium, budecort",
+      "notes": "patient is conscious, coherent, cooperative, pallor+, no icterus, cyanosis, clubbing, lymphadenopathy, BP: 110/70mmHg, PR: 100bpm, RR: 20/min, Spo2: 98% on room air"
+    },
+    {
+      "ordinal": 8,
+      "time": "21/10/2021",
+      "useractivity": "SOAP notes day 3",
+      "symptom": "SOB decreased, cough decreased, orthopnea +, no fever spikes",
+      "diagnosis": "HFrEF with EF=27% secondary to ACUTE DECOMPENSATION ON CHRONIC HEART FAILURE",
+      "treatment": "head end elevation, oxygenation, fluid restriction, salt restriction, inj. lasix, T. Met XL, neb with ipratropium, budecort",
+      "notes": "patient is conscious, coherent, cooperative, Temp: 97.5°F, BP: 110/70mmHg, PR: 108bpm, RR: 21cycles/min, Spo2: 93% on room air"
+    },
+    {
+      "ordinal": 9,
+      "time": "22/10/2021",
+      "useractivity": "SOAP notes day 4",
+      "symptom": "SOB decreased, cough decreased, orthopnea +, no fever spikes",
+      "diagnosis": "HFrEF with EF=27% secondary to ACUTE DECOMPENSATION ON CHRONIC HEART FAILURE",
+      "treatment": "head end elevation, oxygenation, fluid restriction, salt restriction, inj. lasix, T. Met XL, neb with ipratropium, budecort",
+      "notes": "patient is conscious, coherent, cooperative, Temp: 97.5°F, BP: 110/60mmHg, PR: 100bpm, RR: 20cycles/min, Spo2: 96% on room air"
+    },
+    {
+      "ordinal": 10,
+      "time": "23/10/2021",
+      "useractivity": "SOAP notes day 5",
+      "symptom": "SOB decreased, cough decreased, orthopnea +, no fever spikes",
+      "diagnosis": "HFrEF with EF=27% secondary to ACUTE DECOMPENSATION ON CHRONIC HEART FAILURE",
+      "treatment": "head end elevation, oxygenation, fluid restriction, salt restriction, inj. lasix, T. Met XL, neb with ipratropium, budecort",
+      "notes": "patient is conscious, coherent, cooperative, Temp: 98.9°F, BP: 120/80mmHg, PR: 96bpm, RR: 20cycles/min, Spo2: 97% on room air"
+    },
+    {
+      "ordinal": 11,
+      "time": "24/10/2021",
+      "useractivity": "SOAP notes day 6, shifted to AMC",
+      "symptom": "SOB decreased, cough decreased, no fever spikes",
+      "diagnosis": "HFrEF with EF=27% secondary to ACUTE DECOMPENSATION ON CHRONIC HEART FAILURE",
+      "treatment": "head end elevation, oxygenation, fluid restriction, salt restriction, inj. lasix, T. Met XL, neb with ipratropium, budecort",
+      "notes": "patient is conscious, coherent, cooperative, Temp: 98.6°F, BP: 100/70mmHg, PR: 90bpm, RR: 18cycles/min, Spo2: 98% on room air"
+    },
+    {
+      "ordinal": 12,
+      "time": "25/10/2021",
+      "useractivity": "SOAP notes day 7, shifted to AMC",
+      "symptom": "SOB decreased, cough decreased, no fever spikes",
+      "diagnosis": "HFrEF with EF=27% secondary to ACUTE DECOMPENSATION ON CHRONIC HEART FAILURE",
+      "treatment": "head end elevation, oxygenation, fluid restriction, salt restriction, tab. lasix, T. Met XL, neb with ipratropium, budecort",
+      "notes": "patient is conscious, coherent, cooperative, Temp: 98.4°F, BP: 110/80mmHg, PR: 102bpm, RR: 18cycles/min, Spo2: 98% on room air, plan for discharge"
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTLe8dRLwXhEZrgxZn3QQnxdfEpXg3BwgVPzrcWaYcNEmMIl5L1zCn5c23BJ9yoNWWo3GqEbnrlhu0BDSAcQ8mi6q_35PR6Jf6ICCAzJAmPkcHPHf50ki0I1h_be5keLAMK9tNW8AIfQo/s1600/1634612075120932-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTTBf0GrsFXsA2hoXcqFPRUWUVypd-dL81HMvQT1M336ob8wqHOs3RYAYQj_EpmXlJnOyLS5NYccoS0Gt6OKkQ0h60e_Ggsi-RaN8xgKyx_FRm-4UKqgRVxMkM-4f8NU2DbTzimlhCcFo/s1600/1634725807271597-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2XHJaz_nc6H7qKaQNnizjKawgL9nXkfzsi5TxezVzAKmYcduRtSOGIhWncDaE44wPYmqw4pAXUwqAZ9wtkYJAZ52A2Myl-RKhMetW6b5tAFPWHxIJ21jZ1BvUT26bQMf4FsAF8PpBtqs/s1600/1634725798933379-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk7CrI4QK9JKSWUSDoN9BHo-9r7xyjUdx4_Qyax9QC1SDRIr8IKrXvJJ3heiBN26JdVZsOk9_wvM3HKXBJSW5HPQFBlinw_AhEBO82kpjpZf4y9Dt9-vZsYk3dj1Hos3UX4hVhVdc09UM/s1600/1634725788694125-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGkCCevKB4Ykq1j8aOOD-0H289icFp-KK9ZrMUfLe2vrsWzUGqBeHcG3aaXKsh3J_Bu2y7C8HcuiE0dzb1UhHQL5rKbMId7YZ4_jnUfBnGAz5UYWemrWUO5-zQ-nUlSuwNLgK7CbkYvGg/s1600/1634612059173038-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnIoyoaxzchauAh23vME2y2zRvwCpe_-XXdWCnKBI6B7Kkull-8OrHWTG7mX5u7HVibpcAO8Ez3J8cGUE-4as8knQUhDsm4czUTk6RICHtrPsWBaYubIowK610MM-J727nYU5FfuEKxS8/s1600/1634612038720892-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL-XKmmTcr5vtPJnap6Q1PYxz3bciDC3_n6ekebyCZX9dZ_Xbn_Pd1ADIhn52UWdRD-fVoOoplCaDIZ7vE4UmHWSE2LUPugU2UUpn6NYEBRCthugcwDXyEzRYFqKlOs8Ev7-GgNnDiHu8/s1600/1634612730317394-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcyspjGFmrluaM-wv9-BMx97WYS7CZYQ0cQeQEl__aaCNxFxAX6dUpTJHrWOZeXOvNS6e1dgivw6ZpPpo3_r3ssd98eEOrAQOsXwYy-toWTf27M9EpgLRG_EfNLdtTJZLQkgQ08BXJSIg/s1600/1634611988093245-4.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvNZ6911h-xFcgP1rwmVE6FXjnUu_kKiK57DEqsH168mPyqow7I6FHZC5lgrRZx9BntnISz1wlOchB-UQJoTjARJP5_kUkrnj4AmsY-tRmyaeASPqvKaIiB3ztDMyxs86QSaVOwEa1axA/s1600/1634612725778240-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitZokMR8n1QIXUr3fB9m5E8cauLYGeF9OpVAwBJLA39K2kR18RXptcrZUMkzNW3qnL22awJiRJK6XRAIqM5V4julpvIRcdRXUw_0fscI5sVMDwIZbhjd5P41qT43t4ylTxvcg0ceyZDRw/s1600/1634707954185196-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixXwQKaGe5mmwe-qGQIfv1iXOlWmXp1LvALihC7EHWErmO5YtH7gD1AIAcEoL5vb_8w1vZ6-2ITXujpupkzl4lG-H8j0xsvgsPC-OVGyn9_UF7IOUUAICH45loul_TJ9KIblSO1tR2GZo/s1600/1634707642515809-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuK5YTNTbiFBqv_b6EHBW7K5qyluvtvBDJHjMLnAiTxXf7l3Wtc-XcO352PLH3pu14lDfjdscr57k81OXKjrmyzRykAYbpVDyYyzxOWo-PGhknbJd52BmR73lj2AWplTUPzabU4OmqIAk/s1600/1634707558736243-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiskrkquK6Mu5dAT-FmCbSr5CkQPSHMuyTLMzE-yVpJ44arr8BGqkM69mIVXrvEBMXRe7ePDg5JwTYloA4KIR90hE6ZMhqMpQqeNgzN4ws3jESk4ejYRIAS7x8C1IdpQOoZkr_VD_iJr1I/s1600/1634707526500649-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcPF1YauxyZAZbHlDZoeFOXukNjKcMwjPMPPMhubdieqx8mROLJgaosDExeT5K5jXqjs7liJ45WWoZR2XDdAFk0RCLbC10nDTS_pO1xgfBX_elFdInLYU45BG3qYpEDc1QK9ccn8aM6ao/s1600/1634707476990802-4.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWnHBOh3Ny5TEzBMHUJVrrT3tjXXTqLiyL9u8i8g4EuIZKg9x3O3wqTR5GWKuBi6fD5tkJd6bmb227ugD2jF60I3oeuMoz3hqN4d118rTQJK-z1GcjX-PxN3ht74lVaGPBSnV3NNR8s74/s1600/1634707424810760-5.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMY718ZeBSe0d2q3We2QBlYA-foh9qW2Shgwc7j2PAYksoXnUaTC3bivMJVWVCIfxo8QpfHo-LXyxDxPl1x3kMHzZJz6C3IaWD9VhoSg9L5x925yD7v4hxcZT9kxZnpO3riImDoVFhig0/s1600/1634707387487025-6.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSc2pQuZHpXjlYfWDCPQSn9WK9-L4v_ZdxhssUxYmTuJdr-um7QRo-vPzhvFpWEm2X_8UjRB_zNZNvIT-AJVWADhDgEnXPfwv1xQSOyT3_I8faOYd4tVOouAGUB8jje0DOwLml2zTrGA4/s1600/1634709823603646-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4AYm7ZU9J7KxoBUhXq_7SnhHI-GCnCFeqp-a2R7azkclb8uaQ3eM7Oy7iZeP3G0HOFnB8BiZtvv4pJf0YM2JW_-IXZiN4mEq6x9EaUWVnBiETJOJ7gpY6VOT3VidYv_is6wZCDMUJXqI/s1600/1634725393381096-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5KMATjRa9cOyjsKVn3lrmkm2VuouL9XMTse__J71NkVoMuW932jFffOLDaUO8ptBGKfaxAJIFbzI9QIWeYGgqa2Vv-9kWLOrh-HNMaLphOsRZgNh67e3VoyP0Av_rDJbWCUbCaDF9F6o/s1600/1634725385750431-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUNzfHqtI6s0mfDzFEk8cnmN7ROxLv4ZHVcPITMormwUlRJTS-m6GabewulVV1xC3lHzWO-c-TC5w111EDaCgLKAcbofW5m3kJ-Oejln9gZ5bttldOAXaE4H7UfTV0JjiG1A9mVEB3XHw/s1600/1634725378073613-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH7kOOz9UU5KV-WURszDcLEQO5FqIEgrvyJiBYBkpL6JYXpki8WxaHKPARnRggeF_3QBee58MulpQ89gnX2h6SuKvc4kkCCnlnXFYSvVQY94mBRnP7wIo5NQysgMMFqtdKrf8BofFiXH4/s1600/1634725366586678-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWgVTLBwhKmiGL43R6sbCiLINd08Vrtq9G4tS_jctINTR62ak7mzAdfl_n57qCNrXws9QfgtWATn1W2C_D8XX6FV-Q1wq8wetT0FNB8Ioe11b51lK1bEQkf_HXv5yQSZ4ps1rpHKqBVoo/s1600/1634874447170229-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX0ephjOX1bMCf3MHM4v0YVMZw2_fQEp2Dh5OhT7DXapnPtgtZ_3X3rWa7k-XO5HKZ1YLVwVxaS8ujmZMezILnzSrEIVXYMds6khv-0bGCVQPVncT0tbqSiPnKTOgJASFziSYFS2jrvlM/s1600/1634874441720890-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMYI4OD_cpWB4d621C1ZqmrDLdslVWtYPsA6TIeJZM8aVlFSSp9nFJEZ_739zLFEpJc-IYlr3l6onvJV4wkqnZH5_o-rA3RTjQj9joqIu5OliwCcmRXE0UCyJLAjhGfuBJVzKGnPHTTSQ/s1600/1634874436370486-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnquTU5ndzw7nN-kzTkzaIyKZJt7liEbP8clzQcHIRVf-qPwX3dgTjeW7D677sN4mC2AcVPf6hQ-BsikJNgZbnDxV-J5D64JRxPwp-jBmyn_TI14RDvGLO-zTV562vbcmckdIApx-4a-E/s1600/1634876188538321-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1kaOkswcLAq-VKZapirS1XMdHzKF_H2_9947YGNLwNEabms1FVxvNM38R9BEy1SnSrgHSQ5VLB6JHs_dHXtybCv02tUiLiHfySidYtaODa1V49xuoNtweYUPN7OVN8dP4lLy84bD0JXI/s1600/1634876180243557-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6FgQO_XYxlK62-K9PIB-D4PMUO74TFjq6vHA0GHE3rTKceQgH-ZRwK4rY8muaNGz0YppSVzdnhMgx3aOLEn2auARETeMkiGMudomTqAS45TRIhPz7OJIAMDrSnF09NGZhF4F3XB0ogZw/s1600/1634897189977014-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvzPJElbwBI-H7QgwP75cMxAjaUIXfiR5M8fm5Q3IY1JP832LXTqYh3IuV7zWKwh2hLUbGno1ASY0lWu1ejT5qNs7-3HhrKJ2z1lDmo79_YhCBu7j0rNrinq826sDc19bDrTtF9dUkYU0/s1600/1634876010605692-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg15sniR7P4pG4GHCbDoRUlftCgAHccjjMiDBvlml5lHFWiFPfM7Glc9fFZNPTBSCXfjG-gvAX8i7nFdMR7SQAGySO7VbkiKzv4vhfACUA26sbpmeiurjStG7w3U5p-iK6SVkHmwtl7F44/s1600/1634876002962447-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3__QPE78X64DJiK3GoNS3vdZ9wXMqR2UzJfqtx2WJJh1SpwfVDYXm_4OCsUQsba6uHhC_9JzuvT_WEWkOHEMI11kBZVRpzMSDiab_JyZvQOjs8bsAyPMUBCGy0sWOAZ-hKIy614zNrp4/s1600/1634875995899613-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjoSn677Hgr-9d3q8GUYz6FZYYc4L7lY0AlmxKKuyrU_TXoXpSyWVKYegkwHtNpJYzhTrSvp_BqZ86liYyNzdnPkfh7YXSYawqRvd6VlfKC1-r0mwDmKmSQ1W3FLszFDJuznbXLXsz9w4/s1600/1634875987467425-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSoSml3V5DNsYCItlEYr1R1t8UY7Wv_SwYphJ41AeWdYc8qDQO0-qJo7lyaRHHzcVxzY-B7bTtq3TAQLjLX2ay6DSE0zJSPjy7K4oufmdOT2Yj_8hI51LN5nYwp4K6gAhp2pv5Fgepwy0/s1600/1637725150174521-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS9QxYHb7cbSQy6kILvu67Hj8cSFzJuwN651gVl7RmLEq99xg0d_nNhONr289daNm8kZqxfGK2eylRfiNPW29lB0jofUilK77W2kurkIgoCJIpRkfY2mX71ANsvCRi4QhZIpAX46vuSDU/s1600/1639120100362951-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIj7SuVGthIOObrgkb4Ss3f0ezZwWniDG8Z3KB5ZMlOYTfd6HTS0qmPJ4Z9dH4lttwtyY1nRxx-vKhlPBpBvkI3t3y0oHNOupn8u-tFxYV8AZtVavgdQxfTGM3Ave0UKkVehZEwPFtTQY/s1600/1636345649853117-0.png"
+  ]
+}

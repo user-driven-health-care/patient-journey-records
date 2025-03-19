@@ -1,0 +1,283 @@
+{
+  "metadata": {
+    "url": "https://vamsikrishna1996.blogspot.com/2020/11/case-1-1-55-year-old-male-patient-came_81.html",
+    "datetime": "2020-11-17T04:12:00-0800"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "30 years prior",
+      "useractivity": "Alcohol & smoking",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": ""
+    },
+    {
+      "ordinal": 2,
+      "time": "3 days prior",
+      "useractivity": "Abdominal pain & distention, SOB, chest pain, decreased urine output",
+      "symptom": "Abdominal pain, SOB, chest pain, decreased urine output",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": ""
+    },
+    {
+      "ordinal": 3,
+      "time": "Day-2",
+      "useractivity": "",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": "Urine output increased, pedal edema and SOB decreased"
+    },
+    {
+      "ordinal": 4,
+      "time": "Day-3",
+      "useractivity": "",
+      "symptom": "Altered sensorium",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": ""
+    },
+    {
+      "ordinal": 5,
+      "time": "Day-4",
+      "useractivity": "Dialysis done",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Dialysis",
+      "notes": ""
+    },
+    {
+      "ordinal": 6,
+      "time": "Day-5",
+      "useractivity": "",
+      "symptom": "Bilious vomiting",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": ""
+    },
+    {
+      "ordinal": 7,
+      "time": "Day-6",
+      "useractivity": "Dialysis done",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Dialysis",
+      "notes": ""
+    },
+    {
+      "ordinal": 8,
+      "time": "Day-8",
+      "useractivity": "",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": "Abdominal pain & vomitings subsided"
+    },
+    {
+      "ordinal": 9,
+      "time": "Day-15",
+      "useractivity": "",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": "Patient died"
+    },
+    {
+      "ordinal": 10,
+      "time": "35 years prior",
+      "useractivity": "Alcohol & smoking",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": ""
+    },
+    {
+      "ordinal": 11,
+      "time": "4 years prior",
+      "useractivity": "Stopped alcohol",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": ""
+    },
+    {
+      "ordinal": 12,
+      "time": "1.5 years prior",
+      "useractivity": "",
+      "symptom": "Fever, generalized weakness, anemia",
+      "diagnosis": "",
+      "treatment": "2 units blood transfusion",
+      "notes": ""
+    },
+    {
+      "ordinal": 13,
+      "time": "4 months prior",
+      "useractivity": "Stopped smoking",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": ""
+    },
+    {
+      "ordinal": 14,
+      "time": "2 months prior",
+      "useractivity": "",
+      "symptom": "Low grade fever, generalized weakness, headache, neck pain, loss of appetite, weight loss",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": ""
+    },
+    {
+      "ordinal": 15,
+      "time": "2 weeks prior",
+      "useractivity": "",
+      "symptom": "Cough, SOB",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": ""
+    },
+    {
+      "ordinal": 16,
+      "time": "2 days prior",
+      "useractivity": "",
+      "symptom": "Vomiting, pain abdomen",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": ""
+    },
+    {
+      "ordinal": 17,
+      "time": "40 years prior",
+      "useractivity": "Tobacco chewing",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": ""
+    },
+    {
+      "ordinal": 18,
+      "time": "10 years prior",
+      "useractivity": "Alcohol",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": ""
+    },
+    {
+      "ordinal": 19,
+      "time": "7 years prior",
+      "useractivity": "",
+      "symptom": "",
+      "diagnosis": "DM",
+      "treatment": "",
+      "notes": ""
+    },
+    {
+      "ordinal": 20,
+      "time": "5 years prior",
+      "useractivity": "",
+      "symptom": "",
+      "diagnosis": "HTN",
+      "treatment": "",
+      "notes": ""
+    },
+    {
+      "ordinal": 21,
+      "time": "3 years prior",
+      "useractivity": "",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": "1st Episode GTCS & AF with HFpEF"
+    },
+    {
+      "ordinal": 22,
+      "time": "2 years prior",
+      "useractivity": "",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": "2nd Episode GTCS"
+    },
+    {
+      "ordinal": 23,
+      "time": "1 year prior",
+      "useractivity": "",
+      "symptom": "",
+      "diagnosis": "HFrEF & Anasarca",
+      "treatment": "",
+      "notes": "(subsided with medication)"
+    },
+    {
+      "ordinal": 24,
+      "time": "6 months prior",
+      "useractivity": "",
+      "symptom": "Pedal edema",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": ""
+    },
+    {
+      "ordinal": 25,
+      "time": "3 days prior",
+      "useractivity": "",
+      "symptom": "Increased pedal edema, abdominal distention, SOB, decreased urine output",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": ""
+    },
+    {
+      "ordinal": 26,
+      "time": "3 years prior",
+      "useractivity": "Alcohol & khaini",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": ""
+    },
+    {
+      "ordinal": 27,
+      "time": "1 year prior",
+      "useractivity": "",
+      "symptom": "Pins and needles",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": ""
+    },
+    {
+      "ordinal": 28,
+      "time": "8 months prior",
+      "useractivity": "",
+      "symptom": "Palpitations",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": ""
+    },
+    {
+      "ordinal": 29,
+      "time": "3 months prior",
+      "useractivity": "",
+      "symptom": "PND",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": ""
+    },
+    {
+      "ordinal": 30,
+      "time": "2 months prior",
+      "useractivity": "",
+      "symptom": "Pedal edema, SOB",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": ""
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJt7OzRPvAvm8pPx1AUokEzjPzEdOg8GFApbzwhvy3FTiFTqkGE0hsQr8HXm8rYkHm7gNyQ3n9mBYOkYCuNhEe6mheUnqT-e08vYxhpKHfgOkpu7GF-iL3eFoKGdMI8satOalMwH9dKqLEZiP6N0gCb_-2ChmMNs8ANSsJKUba2FIQ81ZKBGfy1RygPw/s320/Picture1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_79G8CHk6sGVBrm8gruFXUvq_dlircO2ZFSuw5OFd7U6RTKXGKQxt-X2r5qSyEnWvgkjQ0ykR97cdJ7sh9wuzJIPXc2RHjYHwrWyxkHeXXyUpIvBE1D-7cS_Q52xFEZcnPfusLFISDBzL/s320/PicsArt_05-28-05.54.43.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOrAp9J0hmxPEfEi7mq_30DVsPSF4g1gIcX-_pyb0eCPdDHeb0xwoWkM9b1-cQd35FZ7KrM0t75RfBPMMuuXz5zyViaQyQoltCknSmV-Ly0vVpgFHNdURcmq-bZvzoFkS21l8-LLA_n1D5/s320/images+%25281%2529+%25284%2529.jpeg"
+  ]
+}

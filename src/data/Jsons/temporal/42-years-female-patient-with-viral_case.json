@@ -1,0 +1,163 @@
+{
+  "metadata": {
+    "url": "https://93deepanandikonda.blogspot.com/2021/05/42-years-female-patient-with-viral.html",
+    "datetime": "2021-05-15T07:54:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "10 days prior to admission",
+      "useractivity": "developed fever",
+      "symptom": "high grade intermittent fever without chills or rigors",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": "patient was apparently asymptomatic before"
+    },
+    {
+      "ordinal": 2,
+      "time": "7 days prior to admission",
+      "useractivity": "visited RMP",
+      "symptom": "",
+      "diagnosis": "typhoid and malaria",
+      "treatment": "medication",
+      "notes": "fever didn't subside with those medications"
+    },
+    {
+      "ordinal": 3,
+      "time": "3 days prior to admission",
+      "useractivity": "developed dyspnea",
+      "symptom": "dyspnea on exertion",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": ""
+    },
+    {
+      "ordinal": 4,
+      "time": "2 days prior to admission",
+      "useractivity": "developed cough and chest pain",
+      "symptom": "productive cough, chest pain on exertion",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": ""
+    },
+    {
+      "ordinal": 5,
+      "time": "1 day prior to admission",
+      "useractivity": "visited hospital 1, gave rapid antigen test",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": "rapid antigen test was negative, CT score was 16/25"
+    },
+    {
+      "ordinal": 6,
+      "time": "13/5/21",
+      "useractivity": "admitted to hospital, covid rapid antigen test done",
+      "symptom": "",
+      "diagnosis": "covid-19",
+      "treatment": "O2 supplementation, Head end elevation, Inj. DEXAMETHASONE 8mg/IV/TID, Inj. PANTOP 40mg/IV/OD, Tab. PCM 650mg/PO/SOS, Tab. LIMCEE PO/OD, Tab. THYRONORM 100mcg/OD",
+      "notes": "patient is a 42 year old female, known case of hypothyroidism, vital signs: Temperature - febrile, Pulse - 124 bpm, Blood pressure - 120/80 mmHg, Respiratory rate - 24 cycles/min, Spo2 - 82% on room air"
+    },
+    {
+      "ordinal": 7,
+      "time": "14/5/21",
+      "useractivity": "treatment continued",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "O2 supplementation, Head end elevation, Duolin budecort nebulization, Inj. DEXAMETHASONE 8mg/IV/OD, Inj. PANTOP 40mg/IV/OD, Tab. THYRONORM 100mcg/OD, Tab. LIMCEE OD, Tab. Mvt OD, Tab. PCM PO/SOS",
+      "notes": "Spo2 - 92% with 15 litres of oxygen"
+    },
+    {
+      "ordinal": 8,
+      "time": "15/5/21",
+      "useractivity": "treatment continued",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Prone positioning, O2 inhalation, Duolin budecort nebulization, Inj. DEXAMETHASONE 8mg IV OD, Inj. PANTOP 40 mg IV OD, Tab. THYRONORM 100 mcg OD, Tab. LIMCEE OD, Tab. Mvt OD, Tab. PCM SOS",
+      "notes": "Spo2 - 82% with 15 litres of oxygen"
+    },
+    {
+      "ordinal": 9,
+      "time": "16/5/21",
+      "useractivity": "treatment continued",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Prone positioning, O2 inhalation, Duolin budecort nebulization, Inj. DEXAMETHASONE 8mg IV OD, Inj. PANTOP 40mg IV OD, Tab. THYRONORM 100mcg, Tab. LIMCEE OD, Tab. Mvt OD, Tab. PCM SOS",
+      "notes": "Spo2 - 90% with 12 litres of oxygen"
+    },
+    {
+      "ordinal": 10,
+      "time": "17/5/21",
+      "useractivity": "treatment continued",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Prone positioning, O2 inhalation, Duolin budecort nebulization, Inj. DEXAMETHASONE 8mg IV OD, Inj. PANTOP 40mg IV OD, Tab. THYRONORM 100mcg, Tab. LIMCEE OD, Tab. Mvt OD, Tab. PCM SOS",
+      "notes": "Spo2 - 90% with 10 litres of oxygen"
+    },
+    {
+      "ordinal": 11,
+      "time": "18/5/21",
+      "useractivity": "treatment continued",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Prone positioning, O2 inhalation, Intermittent Bipap, Duolin budecort nebulization, Inj. DEXAMETHASONE 8mg IV OD, Inj. PANTOP 40mg IV OD, Tab. THYRONORM 100mcg, Tab. LIMCEE OD, Tab. Mvt OD, Tab. PCM SOS",
+      "notes": "Spo2 - 85% with 15 litres of oxygen"
+    },
+    {
+      "ordinal": 12,
+      "time": "19/5/21",
+      "useractivity": "treatment continued",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Prone positioning, O2 inhalation, Bipap, Duolin budecort nebulization, Inj. DEXAMETHASONE 8mg IV OD, Inj. PANTOP 40mg IV OD, Tab. THYRONORM 100mcg, Tab. LIMCEE OD, Tab. Mvt OD, Tab. PCM SOS",
+      "notes": "Spo2 - 92% with Bipap"
+    },
+    {
+      "ordinal": 13,
+      "time": "20/5/21",
+      "useractivity": "treatment continued",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Prone positioning, O2 inhalation, Intermittent Bipap ventilation, Duolin budecort nebulization, Inj. DEXAMETHASONE 8mg IV OD, Inj. CLEXANE 60mg/sc/OD, Inj. PANTOP 40mg IV OD, Tab. THYRONORM 100mcg, Tab. LIMCEE OD, Tab. Mvt OD, Tab. PCM SOS",
+      "notes": "Spo2 - 75% with room air, Spo2 - 90% with 15 litres of oxygen"
+    },
+    {
+      "ordinal": 14,
+      "time": "21/5/21",
+      "useractivity": "treatment continued",
+      "symptom": "1 fever spike",
+      "diagnosis": "",
+      "treatment": "Prone positioning, O2 inhalation, Intermittent BIPAP, Duolin budecort nebulization, Inj. DEXAMETHASONE 8mg IV OD, Tab. LEVOFLOXACIN 750mg/OD, Inj. PANTOP 40mg IV OD, Inj. CLEXANE 60mg/sc/OD, Tab. THYRONORM 100mcg, Tab. LIMCEE OD, Tab. Mvt OD, Tab. PCM SOS",
+      "notes": "Spo2 - 80% with room air, Spo2 - 95% with Bipap Fio2 80%"
+    },
+    {
+      "ordinal": 15,
+      "time": "22/5/21",
+      "useractivity": "treatment continued",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Prone positioning, O2 inhalation, With Intermittent BIPAP, Duolin budecort nebulization, Inj. DEXAMETHASONE 8mg IV OD, Tab. LEVOFLOXACIN 750mg/OD, Inj. PANTOP 40mg IV OD, Inj. CLEXANE 60mg/sc/OD, Tab. THYRONORM 100mcg, Tab. LIMCEE OD, Tab. Mvt OD, Tab. PCM SOS",
+      "notes": "Spo2 - 80% at room air, Spo2 - 91% with Bipap Fio2 90%"
+    },
+    {
+      "ordinal": 16,
+      "time": "24/5/21",
+      "useractivity": "treatment continued",
+      "symptom": "no fever spike",
+      "diagnosis": "",
+      "treatment": "Prone positioning, O2 inhalation with face mask, Duolin budecort nebulization, Inj. DEXAMETHASONE 8mg IV OD, Tab. LEVOFLOXACIN 750mg/OD, Inj. PANTOP 40mg IV OD, Inj. CLEXANE 60mg/sc/OD, Tab. THYRONORM 100mcg, Tab. LIMCEE OD, Tab. Mvt OD, Tab. PCM SOS",
+      "notes": "Spo2 - 91-93% with 15 litres of oxygen"
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjssawTHMxwE0MU_xIirTDuMixB3QVqiShDyAEhuvs0OA2Hm2zZVNTPa9b5UqA7m39-e08C6JaytqrIVs6krViteHRApMhwQajylLVHn49HYHJkgnaIgcM3aGQD2XfRvnXwN8BiGXe34ogh/w184-h302/Screenshot_2021-05-15-19-12-20.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ5srPGMuUzuW90ey53BZrPFmdW5-T-XJPesPOKApt3noiY6CNpwQyl1bbSd3YsqTlOi8oA3hnUgZ8WLSp3Jm2EOFUwFYiUa2_J_m0Z7BWClIOUVTD77trcx1KIWT_NkQe58T4njWDE5gC/s320/Screenshot_2021-05-15-16-47-42.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibTWa-wvqvd2HnZFF0ByTfW2q4jELZ7C2VkWmSF89QMJnr9wGvYe6bUI8rYeNvyiG5DWlwa8q2Y5ollhS5BIfSnlmanchFnm5nWUmrId4m28lMYF88QPCTmKDaqP5cde6-PkxWYA-k81Nm/s320/Screenshot_2021-05-15-16-47-50.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSPVLT7EO7pE7ixMwLIAyr4vgI44O9zSygGccPbBLi7BAR5d4W5CrDzA5b8bfNP0NnzggwvjXuQH6kcAiLnuMzL5fpnbXGfD1qjLn4a9TDsuOBpUMHsZVm1sDTfmbB4jnAfhxUmstEO-3D/s320/Screenshot_2021-05-15-19-12-02.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh-RyU2ZdKKcSZFhRggOAzMuKwa4KEfel7deVi4phEdEJSkkV9yYgl7dNDD5eWXlmhGHDShhQtFqW7WkJ3Azkld7oyljGxt0X5hRWjvH3Z2EhDfZBGwgH18l2mrmve8PKAqDw6atsdpt7u/w312-h320/IMG-20210520-WA0006.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFAGkx7Jn26pYbnh5ieO0sp5DB_11i4R-u2KSV1wX3nGB1gEN2oDJoJfz3dKUUNcECRZ4ycHCvwdJaafIEmxwqLqfZVyuQ2Sl1VUz6o_v1Pal6mZJiJOdNtVtQIJLhx1WeyI6iQf7DZPuh/s320/IMG-20210522-WA0005.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWdPFMvJGv_RmXuXKBk4LQEHIETSLkdrcAlLHlOQZM4_LqSNIZirR_0FnBqALe4LxeSuxNhAZca8pAkEZCtOZ2FMRcMVcloYuBagmsMzPW0Jj8kwMG9bx_6sLz9bTeKO0qqoYcJljxJJHYppF0C8kTK25jyQm2oKpbxbD4Y9zfV3A_3C2hj1mKw_SsFA/s320/IMG-20230604-WA0043.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj53oyG9t7R_OSUtVSW3FCyb6Wi0pGyMGSV6M43gzr27XoIAM05Ea8PubBUV7Zy5y3aNQYqv3pa9t78dB-dE3RWGKWjxhMCgqGF1G6LOcaQ8oY-XAqY2HEUgaGsFD5GJ7Hwk5fJDmi0EasAiVgGeQ9kViKkonvutAboqnVH0HB0VdPD80Tc01MlWiQDQg/s320/IMG_20220611_175046.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMO2OIvcmCp7G0SguXLu0NndWpBO_di_lZrdApHvfKrGJVtqVqXQBPsi25EObuig3EI4QUPyhhR88U_Ro7fTKPqyzj2ErBUMGoCT5DKgmFf993DslDVmbJy4FzczTxDmGxeyIYOHlCHW_KIsdiitUosHZR4i_fB9MI6S1v2ARbLToZYjja6YYuByr5sg/s320/IMG_20230612_102026.jpg"
+  ]
+}

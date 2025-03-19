@@ -7,210 +7,227 @@
     {
       "ordinal": 1,
       "time": "6 months prior to January 2021",
-      "useractivity": "Patient experienced chest pain",
-      "symptom": "Chest pain, pricking type, subsiding on its own, no radiation",
+      "useractivity": "",
+      "symptom": "chest pain, pricking type, subsiding on its own, no radiation",
       "diagnosis": "",
-      "treatment": ""
+      "treatment": "",
+      "notes": "56 year old female, tobacco leaf seller by occupation"
     },
     {
       "ordinal": 2,
       "time": "1 month prior to January 2021",
-      "useractivity": "Patient experienced shortness of breath",
+      "useractivity": "",
       "symptom": "Shortness of breath grade 2 (MMRC)",
       "diagnosis": "",
-      "treatment": ""
+      "treatment": "",
+      "notes": ""
     },
     {
       "ordinal": 3,
-      "time": "1 day prior to January 2021",
-      "useractivity": "Patient's shortness of breath worsened",
-      "symptom": "Shortness of breath grade 4",
+      "time": "20 days prior to January 2021",
+      "useractivity": "",
+      "symptom": "Decreased appetite",
       "diagnosis": "",
-      "treatment": ""
+      "treatment": "",
+      "notes": ""
     },
     {
       "ordinal": 4,
-      "time": "20 days prior to January 2021",
-      "useractivity": "Patient experienced decreased appetite",
-      "symptom": "Decreased appetite",
+      "time": "15 days prior to January 2021",
+      "useractivity": "",
+      "symptom": "generalised weakness",
       "diagnosis": "",
-      "treatment": ""
+      "treatment": "",
+      "notes": ""
     },
     {
       "ordinal": 5,
-      "time": "15 days prior to January 2021",
-      "useractivity": "Patient experienced generalised weakness",
-      "symptom": "Generalised weakness",
+      "time": "10 days prior to January 2021",
+      "useractivity": "",
+      "symptom": "Pain abdomen, diffuse predominantly in the epigastric region, non radiating",
       "diagnosis": "",
-      "treatment": ""
+      "treatment": "",
+      "notes": ""
     },
     {
       "ordinal": 6,
-      "time": "10 days prior to January 2021",
-      "useractivity": "Patient experienced pain abdomen",
-      "symptom": "Pain abdomen, diffuse predominantly in the epigastric region, non radiating",
+      "time": "5 days prior to January 2021",
+      "useractivity": "",
+      "symptom": "B/L Lower limb, upper limb edema and facial puffiness",
       "diagnosis": "",
-      "treatment": ""
+      "treatment": "",
+      "notes": "Edema initially started in the lower limbs then progressed to upper limbs and then face"
     },
     {
       "ordinal": 7,
-      "time": "5 days prior to January 2021",
-      "useractivity": "Patient experienced B/L Lower limb, upper limb edema and facial puffiness",
-      "symptom": "B/L Lower limb, upper limb edema and facial puffiness",
+      "time": "1 day prior to January 2021",
+      "useractivity": "",
+      "symptom": "Shortness of breath grade 4 (MMRC)",
       "diagnosis": "",
-      "treatment": ""
+      "treatment": "",
+      "notes": ""
     },
     {
       "ordinal": 8,
       "time": "January 2021",
-      "useractivity": "Patient came to OPD",
-      "symptom": "Chest pain, shortness of breath, orthopnoea, paroxysmal dyspnoea, palpitations, decreased appetite, generalised weakness, pain abdomen, B/L Lower limb, upper limb edema and facial puffiness",
-      "diagnosis": "Provisional diagnosis of Heart failure",
-      "treatment": ""
+      "useractivity": "came to OPD",
+      "symptom": "chest pain, Shortness of breath grade 4 (MMRC), orthopnoea, Paroxysmal dyspnoea, palpitations, Pain abdomen, B/L Lower limb, upper limb edema and facial puffiness",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": "Patient is C/C Pallor +, No icterus, clubbing, cyanosis, lymphadenopathy, pedal edema present, Temp - 98.6 F, PR - 108 bpm, BP - 120/70 mm of Hg, Spo2 - 98%, CVS - Inspection : JVP : Raised JVP prominent X descent - 14 cms, No precordial bulge or any scars sinuses present, Apical impulse in 6th intercoastal space lateral to mid clavicular line, Parasternal heave +, Ausculation S1, S2 + muffled heart sounds, Loud P2 in Pulmonary area, Pansystolic murmur in Tricuspid area, RS - BAE +, fine inspiratiry crepts present in right and left ISA, P/A - distended, multiple hemorrhagic spots seen, Hepatomegaly present with liver span of 15 cm, Tenderness + in epigastric and Right hypochondric area"
     },
     {
       "ordinal": 9,
-      "time": "January 2021 (after OPD visit)",
-      "useractivity": "Blood investigations and Xray were done",
+      "time": "January 2021",
+      "useractivity": "provisional diagnosis of Heart failure was made",
       "symptom": "",
-      "diagnosis": "Pericardial effusion, Cardiac tamponade",
-      "treatment": ""
+      "diagnosis": "Heart failure",
+      "treatment": "",
+      "notes": "Blood Investigations, Xray showing money bag appearance indicating pericardial effusion, ESR = 110 mm hg"
     },
     {
       "ordinal": 10,
-      "time": "January 2021 (after diagnosis of Cardiac tamponade)",
-      "useractivity": "Pericardiocentasis was done",
-      "symptom": "",
-      "diagnosis": "",
-      "treatment": "Pericardiocentasis, IVF 0.9% NS, Inj Noradrenaline"
+      "time": "January 2021",
+      "useractivity": "patient developed hypotension",
+      "symptom": "hypotension",
+      "diagnosis": "Cardiac tamponade",
+      "treatment": "",
+      "notes": "Pulsus pardoxus present, Raised jvp, Muffled heart sounds present, 2d echo showed RV diastolic collapse"
     },
     {
       "ordinal": 11,
-      "time": "20 minutes after pericardiocentasis",
-      "useractivity": "Patient lost consciousness",
-      "symptom": "Loss of consciousness, hypotension",
+      "time": "January 2021",
+      "useractivity": "pericardiocentasis was done",
+      "symptom": "",
       "diagnosis": "",
-      "treatment": "IVF 0.9% NS, Inj Noradrenaline"
+      "treatment": "pericardiocentasis",
+      "notes": "about 300 ml of fluid was drained"
     },
     {
       "ordinal": 12,
-      "time": "After pericardiocentasis and treatment",
-      "useractivity": "Patient regained consciousness",
-      "symptom": "",
+      "time": "20 minutes after pericardiocentasis",
+      "useractivity": "patient had loss of consciousness",
+      "symptom": "loss of consciousness",
       "diagnosis": "",
-      "treatment": ""
+      "treatment": "IVF one unit 0.9% NS was given as bolus, inj Noradrenaline at 4 ml/hr was started",
+      "notes": "Bp : 60/40 mm hg"
     },
     {
       "ordinal": 13,
-      "time": "January 2021 (after pericardiocentasis and treatment)",
-      "useractivity": "Pericardial fluid analysis was sent",
+      "time": "after pericardiocentasis",
+      "useractivity": "pericardial fluid analysis was sent",
       "symptom": "",
-      "diagnosis": "Exudative pericardial effusion",
-      "treatment": ""
+      "diagnosis": "",
+      "treatment": "",
+      "notes": "according to lights criteria, it was exudative, Pericardial fluid for Acid Fast bacilli negative and malignant cells negative"
     },
     {
       "ordinal": 14,
-      "time": "January 2021 (after pericardial fluid analysis)",
-      "useractivity": "Etiology of pericardial effusion was thought over",
+      "time": "after pericardiocentasis",
+      "useractivity": "thyroid profile was sent",
       "symptom": "",
-      "diagnosis": "Tuberculosis, Malignancy",
-      "treatment": ""
+      "diagnosis": "subclinical hypothyroidism",
+      "treatment": "Tab Thyronorm 50 mcg od",
+      "notes": ""
     },
     {
       "ordinal": 15,
-      "time": "January 2021 (after etiology of pericardial effusion was thought over)",
-      "useractivity": "Thyroid profile was sent",
+      "time": "after pericardiocentasis",
+      "useractivity": "serum protein electrophoresis was sent",
       "symptom": "",
-      "diagnosis": "Subclinical hypothyroidism",
-      "treatment": "Tab Thyronorm 50 mcg od"
+      "diagnosis": "",
+      "treatment": "",
+      "notes": "high total protein and low albumin, M spike at Beta globulin region"
     },
     {
       "ordinal": 16,
-      "time": "January 2021 (after thyroid profile)",
-      "useractivity": "Serum protein electrophoresis was sent",
+      "time": "after pericardiocentasis",
+      "useractivity": "bone marrow biopsy was done",
       "symptom": "",
       "diagnosis": "",
-      "treatment": ""
+      "treatment": "",
+      "notes": "percentage of plasma cells were more than 30%"
     },
     {
       "ordinal": 17,
-      "time": "January 2021 (after serum protein electrophoresis)",
-      "useractivity": "Bone marrow biopsy was done",
+      "time": "after pericardiocentasis",
+      "useractivity": "treatment was started",
       "symptom": "",
-      "diagnosis": "Multiple Myeloma",
-      "treatment": ""
+      "diagnosis": "",
+      "treatment": "Inj Bortezomib 2mg Sc /od, Inj Cyclophosphamide 400 mg in 500 ml NS Iv /od, Tab Dexamethasone 8 mg /od, Tab Septran Ds /BD, Tab Pan 40 mg od",
+      "notes": ""
     },
     {
       "ordinal": 18,
-      "time": "January 2021 (after bone marrow biopsy)",
-      "useractivity": "Treatment for Multiple Myeloma was started",
-      "symptom": "",
-      "diagnosis": "",
-      "treatment": "Inj Bortezomib, Inj Cyclophosphamide, Tab Dexamethasone, Tab Septran Ds, Tab Pan 40 mg od"
-    },
-    {
-      "ordinal": 19,
       "time": "6 months after treatment",
       "useractivity": "Xray was done",
       "symptom": "",
       "diagnosis": "",
-      "treatment": ""
+      "treatment": "",
+      "notes": "Resolution of pericardial effusion, Patient is on chemotherpay once in 15 days and subjectively she is feeling better, Regained her appetite, no complaints of SOB"
+    },
+    {
+      "ordinal": 19,
+      "time": "October 2021",
+      "useractivity": "chemotherapy was done",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "chemotherapy",
+      "notes": ""
     },
     {
       "ordinal": 20,
-      "time": "6 months after treatment",
-      "useractivity": "Patient's condition improved",
+      "time": "November 2021",
+      "useractivity": "patient missed chemotherapy session",
       "symptom": "",
       "diagnosis": "",
-      "treatment": ""
+      "treatment": "",
+      "notes": ""
     },
     {
       "ordinal": 21,
-      "time": "October 2021",
-      "useractivity": "Patient's last chemotherapy session",
-      "symptom": "",
+      "time": "December 2021",
+      "useractivity": "patient had pain in the right eye",
+      "symptom": "pain in the right eye",
       "diagnosis": "",
-      "treatment": ""
+      "treatment": "",
+      "notes": "patient was supposed to undergo chemosessions"
     },
     {
       "ordinal": 22,
-      "time": "November 2021",
-      "useractivity": "Patient missed chemotherapy session",
-      "symptom": "",
+      "time": "25th December 2021",
+      "useractivity": "patient developed redness around the orbit, watering of eyes, pain and tenderness around the right eye",
+      "symptom": "redness around the orbit, watering of eyes, pain and tenderness around the right eye",
       "diagnosis": "",
-      "treatment": ""
+      "treatment": "",
+      "notes": "patient also complained of fever and slowly patient was in altered sensorium"
     },
     {
       "ordinal": 23,
-      "time": "December 2021",
-      "useractivity": "Patient planned for chemotherapy session",
-      "symptom": "Pain in the right eye",
-      "diagnosis": "",
-      "treatment": ""
+      "time": "after 25th December 2021",
+      "useractivity": "patient was taken to the hospital",
+      "symptom": "",
+      "diagnosis": "orbital cellulitis with Acute kidney injury (Pre-renal /Renal) and uraemic encephalopathy",
+      "treatment": "3 sessions of hemodialysis, Antibiotics",
+      "notes": "patient sensorium improved and has become subjectively better and was discharged"
     },
     {
       "ordinal": 24,
-      "time": "25th December 2021",
-      "useractivity": "Patient applied ointment on forehead",
-      "symptom": "Redness around the orbit, watering of eyes, pain and tenderness around the right eye",
+      "time": "January 8th 2022",
+      "useractivity": "patient started developing erythematous lesions on calf region",
+      "symptom": "erythematous lesions on calf region",
       "diagnosis": "",
-      "treatment": ""
+      "treatment": "",
+      "notes": "associated with fever, patient had similar lesions with small distribution whenever there was delay in chemotherapy"
     },
     {
       "ordinal": 25,
-      "time": "After 25th December 2021",
-      "useractivity": "Patient was taken to hospital",
-      "symptom": "Fever, altered sensorium",
-      "diagnosis": "Orbital cellulitis, Acute kidney injury (Pre-renal/Renal), Uraemic encephalopathy",
-      "treatment": "Hemodialysis, Antibiotics"
-    },
-    {
-      "ordinal": 26,
-      "time": "January 8th 2022",
-      "useractivity": "Patient developed erythematous lesions on calf region",
-      "symptom": "Erythematous lesions, fever",
+      "time": "16/01 to 19/01",
+      "useractivity": "platelet trends were monitored",
+      "symptom": "",
       "diagnosis": "",
-      "treatment": ""
+      "treatment": "",
+      "notes": "800/2550, 750/1500, 400/950, 750/600"
     }
   ],
   "imageurl": [
