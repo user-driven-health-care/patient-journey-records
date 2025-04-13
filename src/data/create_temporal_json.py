@@ -57,25 +57,36 @@ def generate_timeline_with_groq(content):
     """Use Groq API with Llama 3 model to generate a structured timeline."""
     client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
     
-    prompt = f"""Given the following medical case blog content, extract a timeline of events in JSON format.
-    Each timeline entry should have: ordinal (number), time (specific time mentioned), useractivity (what happened), 
-    symptom (any symptoms mentioned), diagnosis (any diagnoses), treatment (any treatments) and notes (include any additional details not captured in the other fields such as patient demographics, physical examination findings, investigation results, lab measurements, and discussion details).
-
-    Use ONLY information explicitly stated in the content. If a field has no information, leave it as an empty string.
-    Start a new timeline entry ONLY when a new time frame is mentioned.
-    Use the exact medical terminology and descriptions from the text.
-    Ensure that all timeline entries are sorted in chronological order from the *earliest* to the *latest* event. If time descriptions are relative (such as '1 day prior' comes chronologically after '5 days prior' and not before '20 days prior'), interpret them relative to the reference event date so that events occurring further back in time appear first. After sorting, reassign the ordinal numbers sequentially to reflect the correct temporal order.
-
+    prompt = f"""
+    You are given a medical blog post containing one or more cardiac case studies. Your task is to extract structured data from this post in a temporal JSON format.
+    1. Detect if the blog contains one or multiple case studies.
+    2. For each case study, extract a metadata object with:
+    - "url": the URL of the blog post
+    - "datetime": publication date or stated date
+    - "links": internal/external links
+    - "additional_metadata": any extra non-timeline details
+    3. For each case, extract a "timeline" array, with each entry like:
+        {{
+            "ordinal": 1,
+            "time": "specific time mentioned",   // This field must not be empty and must be in an acceptable format 
+            "activity": "what happened",
+            "symptom": "symptoms mentioned",
+            "diagnosis": "diagnoses mentioned",
+            "treatment": "treatments mentioned",
+            "notes": {{
+                "demographics": "...",
+                "physical_exam": "...",
+                "investigations": "...",
+                "lab_measurements": "...",
+                "discussion": "..."
+            }}
+        }}
+    4. Events must be sorted in chronological order and re-numbered accordingly.
+    5. Leave empty strings for missing fields, except for "time" which must always have valid, explicit information (e.g., "on admission", "2 days before admission", "January 5, 2021").
+    6. Use only explicitly stated text from the blog.
     Blog content:
     {content}
-    
-    Format the response as a valid JSON array of timeline entries like this:
-    ```json
-    [
-      {{"ordinal": 1, "time": "specific time mentioned", "useractivity": "what happened", "symptom": "symptoms mentioned", "diagnosis": "diagnoses mentioned", "treatment": "treatments mentioned", "notes": "additional information mentioned"}},
-      ...
-    ]
-    ```
+    Output the JSON structure only.
     """
     
     try:
@@ -127,7 +138,7 @@ def save_json_to_file(data, filename):
     print(f"JSON saved to {filename}")
 
 def main():
-    input_file = "src\data\links\\filtered_blogpost_links.csv"
+    input_file = "src\data\links\\test.csv"
     with open(input_file, 'r', encoding='utf-8') as f:
         reader = csv.DictReader(f)
         for row in reader:

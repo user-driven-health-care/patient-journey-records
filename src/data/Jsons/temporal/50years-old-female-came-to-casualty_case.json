@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "url": "https://elogformedicalcase.blogspot.com/2021/10/50years-old-female-came-to-casualty.html",
+    "datetime": "2023-11-20T22:17:00-0800"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "two months ago",
+      "activity": "dog bite on right cheek",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "treated and follow all four doses of vaccines",
+      "notes": {
+        "demographics": "50 years old female",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "two nights ago",
+      "activity": "developed headache",
+      "symptom": "headache",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "yesterday",
+      "activity": "episode of vomiting",
+      "symptom": "vomiting",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "yesterday afternoon",
+      "activity": "unable to speak",
+      "symptom": "shortness of breath",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "yesterday afternoon",
+      "activity": "referred to hospital",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "admission",
+      "activity": "intubated",
+      "symptom": "shortness of breath",
+      "diagnosis": "",
+      "treatment": "intubation",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "PR- 133, BP- unrecordable, RR-40, SpO2- 88, GRBS- 346, CVS- S1 S2 no murmurs, RS- trachea central, Bilateral crepitations in infra mamillary and infra axillary regions",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "day 2",
+      "activity": "on Mechanical ventilator",
+      "symptom": "",
+      "diagnosis": "viral encephalitis, cardiogenic shock, viral pneumonia",
+      "treatment": "noradrenaline, dobutamine, mechanical ventilation",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "GCS-E1, Vt M4, comatose, withdrawal present to deep painful stimulus",
+        "investigations": "ABG, ECG",
+        "lab_measurements": "BP 90/60 mmhg, PEEP -5 com of h2o, FI02-80%, RR -14/min",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "day 2",
+      "activity": "cardiogenic shock",
+      "symptom": "low blood pressure",
+      "diagnosis": "cardiogenic shock",
+      "treatment": "increasing doses of noradrenaline, dobutamine, vasopressin",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 9,
+      "time": "6 AM",
+      "activity": "CPR started",
+      "symptom": "absent central pulse",
+      "diagnosis": "",
+      "treatment": "CPR",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 10,
+      "time": "6:42 AM",
+      "activity": "declared dead",
+      "symptom": "",
+      "diagnosis": "cardiogenic shock secondary to antero septal MI",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "immediate cause of death - cardiogenic shock secondary to antero septal MI, antecedent cause of death - viral encephalitis"
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7ub4f6WCx_bIgU3Q9x2HJgosNK2TY3lHkpU7xoJ2SvM2sNp71UsZ0ek7duD-Vo24_aXtZNJXk-9_tPdgoHPC2m9dH_HGWbpDm71p1NQPpO0dc9SmQKXM3t3uAab2RupKXvDsJB9HclbI/s1600/1633202579642071-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjptRgK05bdVNpTL7Qn93N__4rLBgMmekXoeZ5QTBRvzmtJ_bvwbVhuFOZiEOqzCUZFmhTpm7SV4SvzGgyefmheUbOdGUHFeWsKTNeOOlS7rsrjnZSaD4QjmU2TU7bvkGPlBXIuyyoMG8w/s1600/1633330276955925-0.png",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEgiEsazvXUcFRVdBq9T8B-TolSJGhSsgYCBM-8j_qlZ5je9S6kca79Tzjk4JE8H0QTQp0jAV9FJHo993l2Ui2NKGQ6Blne6yelgvHmItH980Ihf8TrmZh7P9LiYMGcE43zlTWS_vksTTC2brA1iZmH_mSVJxnS7GTw83tkWU4tSkdDQf0A1ayJ-Ts41=s320",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnJ0286SZQ2ybB3QJAHa65LbveVdPqxjIeZZr1k1RpZeeywdRMKx1IwFt53NwEk5-PduFnp3-d9CV7Rc_LH5jHoAisvbCiyc7IYFrmVXZcVzh6pxh4QU2dbQdekthcHxRrkj1gf1FbcaI/s1600/1633330248888996-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKPtUrAWynAd1JRbUwh-5xc4RgBdM0Uja9Hs3jH75yfBqm7YAno08JDOd6Vb8T0EGkt-6CSn89SCCMI13jFOR5m4EP-AQINg9OO78ds08_-9b9P7l32_oQuZHX99G3CEBlzEEropLVec8/s1600/1633205252211932-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi63xuLPHgbyBsN1QLibn4kSlYKIcjkNGP-CqA86JoRkqTyk08wvCJ9msoN_j6i-TwDW3PzIGLhlwMB3VPlyhq9voIoXJp5BDsBftyKJ-e8gUH33Y1CvZGv9_7-d-RszGsFo9AQSG1P7eI/s1600/1633224412636066-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRVY0EHShfM7V_oj2jlKuXjpTPYxy7WxXOSyCerK8xTJTB9wzQJGRGN-ws1h163FhcfThGHxtQrOK9_erNo_zVRP-q0uGI_Yq5yAa9SMjdrauAX6jiVIk88V-ARUQCa31Thz1cE_vTqmM/s1600/1633229013294180-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRKcR_fbf5rQ9lWSZaT9prbGf5PoMFDi422Hg9NOcdoyE6l4H-NB4jqdPG_OtbuEg-Mvcs1meKKy0pxOVEoHmHHdg15nVrUP9T5fdJ0EG9QlEO83jseeKTwuozVhhbmX8DQ9QTpa7sHC4/s1600/1633319736895944-0.png",
+    "https://resources.blogblog.com/img/icon18_edit_allbkg.gif"
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "metadata": {
+    "url": "https://elogformedicalcasebyintern.blogspot.com/2021/12/35-f-with-aki-on-ckd.html",
+    "datetime": "2021-12-17T19:59:00-0800"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "2 months back",
+      "activity": "developed chest pain",
+      "symptom": "chest pain",
+      "diagnosis": "",
+      "treatment": "visited local hospital in miryalaguda",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "diagnosed to have chronic kidney disease and low hemoglobin"
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "2 months back",
+      "activity": "2PRBC Transfusions were done",
+      "symptom": "",
+      "diagnosis": "chronic kidney disease and low hemoglobin",
+      "treatment": "2PRBC Transfusions",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "20 days back",
+      "activity": "developed b/l pedal edema, reduced urine output, sob a/w orthopnea, and PND, and facial puffiness",
+      "symptom": "b/l pedal edema, reduced urine output, sob a/w orthopnea, and PND, and facial puffiness",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "10 days back",
+      "activity": "developed fever a/w chills and rigor",
+      "symptom": "fever a/w chills and rigor",
+      "diagnosis": "",
+      "treatment": "medication",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "fever subsided on medication"
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "yesterday",
+      "activity": "1 PRBC transfusion done in Nalgonda hospital",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "1 PRBC transfusion",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "On 02/12/21",
+      "activity": "outside reports",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "On 17/12/21",
+      "activity": "outside reports",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "Day 2",
+      "activity": "Pt shifted to CKD ward",
+      "symptom": "Sob reduced, Pedal edema reduced",
+      "diagnosis": "AKI ON CKD (stage v), with egfr: 5ml/hr, with metabolic acidosis ( resolving ), with b/l pleural effusion with k/c/o HTN since 10 months",
+      "treatment": "Head end elevation upto 30', O2 supplementation if SpO2 < 90%, Inj. Lasix 40mg iv tid, Inj. PIPTAZ 2.25gms IV BD, TAB. NICARDIA 10MG PO BD, TAB. NODOSIS 550MG PO BD, Tab. Orofer XT PO/OD, TAB. SHELCAL 500 MG PO OD, NEB. WITH SALBUTAMOL 2 RESIPULES / 4TH HRLY, INJ. ERYTHROPOIETIN 4000 IU S/C WEEKLY ONCE, SYP. ASCORYL PO TID, HRLY VITALS MONITORING",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Pallor +, B/l Pedal edema +, No icterus, cyanosis, clubbing, lymphadenopathy, Afebrile, Bp: 160/80 mm hg, PR: 88 bpm, RR: 22 cpm, SpO2: 92% @RA, CVS: S1,S2 +, RS: BAE+, decreased breathsounds in b/l ISA, MSA, P/A: SOFT, NON TENDER, CNS: NAD",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 9,
+      "time": "Day 3",
+      "activity": "Pt shifted to CKD ward",
+      "symptom": "Sob reduced, Pedal edema reduced",
+      "diagnosis": "AKI ON CKD (stage v), with egfr: 5ml/hr, with metabolic acidosis ( resolving ), with b/l pleural effusion with k/c/o HTN since 10 months",
+      "treatment": "Head end elevation upto 30', Inj. Lasix 40mg iv tid, TAB. NICARDIA 10MG PO BD, TAB. NODOSIS 550MG PO BD, Tab. Orofer XT PO/OD, TAB. SHELCAL 500 MG PO OD, NEB. WITH SALBUTAMOL 2 RESIPULES / 4TH HRLY, INJ. ERYTHROPOIETIN 4000 IU S/C WEEKLY ONCE, Inj. Iron sucrose 1 amp in 100ml NS",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Pallor +, B/l Pedal edema +, No icterus, cyanosis, clubbing, lymphadenopathy, Afebrile, Bp: 160/80 mm hg, PR: 88 bpm, RR: 22 cpm, SpO2: 92% @RA, CVS: S1,S2 +, RS: BAE+, decreased breathsounds in b/l ISA, MSA, P/A: SOFT, NON TENDER, CNS: NAD",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 10,
+      "time": "Day 4",
+      "activity": "In CKD WARD",
+      "symptom": "Sob reduced, Pedal edema reduced",
+      "diagnosis": "AKI ON CKD (stage v), with egfr: 5ml/hr, with metabolic acidosis ( resolving ), with b/l pleural effusion with k/c/o HTN since 10 months",
+      "treatment": "Head end elevation upto 30', Inj. Lasix 40mg iv tid, TAB. NICARDIA 10MG PO BD, TAB. NODOSIS 550MG PO BD, Tab. Orofer XT PO/OD, TAB. SHELCAL 500 MG PO OD, NEB. WITH SALBUTAMOL 2 RESIPULES / 4TH HRLY, INJ. ERYTHROPOIETIN 4000 IU S/C WEEKLY ONCE, Inj. Iron sucrose 1 amp in 100ml NS",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Pallor +, B/l Pedal edema +, No icterus, cyanosis, clubbing, lymphadenopathy, Afebrile, Bp: 160/80 mm hg, PR: 88 bpm, RR: 22 cpm, SpO2: 92% @RA, CVS: S1,S2 +, RS: BAE+, decreased breathsounds in b/l ISA, MSA, P/A: SOFT, NON TENDER, CNS: NAD",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/a/AVvXsEj_YOArJsD7_BKrcf5epvdMdlvK3z4lzhdBo0S-UtmPi5Fcwyb5gf1ml9CAC0YNZBK_7XFWgAnjhMvGqJD311Sym6SJJbxOsqW9BqrVpc2eJdagw4ZbeRVbmT9XRuKQCrbXvUmTOoE9s8oijqBfHBJ9os8V6_6XDBFlv9ozGFHkvD5B5SttumkyAYVr=s320",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibR_mKniIsiUc0qBKSrKy0Ks2dEqbMv5xgOb42xv9rkLM20DiS7sSFR3WRNeVYHKYF9qTrVnvinciuMqqNnnHg3mfpNwqWydCxzM82AMxDRcN2hyWqEUcxse3T2xmOnKmFQ5R8DI7PIY4/s320/IMG20211218093420.jpg",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEg_P3rEMSwMmCWaXGN2-NR4ZXC8iBCTjPvEZWyo3vAnOnHqAetNrJtcVlXR34q8Kfz8GwXPUENVSNs7INa0nLaI6rCXZT5jVEPiW3YSpTb9xds7yn_O2ERTP29q3Mayz0lK5asGiyXB8llPVSEDbVc4BflnhXAEFIGqzvkvjyz3xbfIPRbxCAMQpqy3=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEgHlyApGztzbvF8qXWU-2JuFmgi6wKn-jNXB2102PFOvge0yYkNvGUcOxWXMJ2Q6DNnfxFo91lv1dgo7gFPCcWFliVsi8bxxf5QL7HBWwG8XqqlUFg5vCIqAVtm7XaUqVY92hhGWigt0lGmzxwtLnSatlYk5nMXAdJlMU5GTjE3l19IO2YK58n-F2TP=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEg8gc64LIYzaNE2i7B-oZC-zTNpBNO-hctg-W5N8g2OusZJdMb0Jhdkln9jZ_1QpFePyV-jF22xSLstlH2-Hc6cn37GEdQA9uDD7YxpQK4c50d5KFMW55RdFGDqxMgVyUiQHZDnw5sbShKWqFlmHd3fnvfIPHz2YiAGlCqdlyDGiswdg3L3aGVmeD18=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEh5HZI48Ry2tG0-31aqaALxZMtJONvVvo27erto79VOtStnwLpVQ8NOXuG1ahVHn6SNo0ZrBYlQvAAwC8U8R_hv7yqPK95tybqB9G-IiIq20SVy6y_SVmmsM8YzUWm0kmoKkSBxEaAolk642CwJZKtEvXr6N71yxWp0OFKvbVRk08UTl-rCOEvK8aHk=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEjznVvW0zAINT0GA5_BXQL_YiFWsq8clz8FEGTg6-hsPz1eC-MB28xPRFgo8jcMXX1eltWPFOnoI9Fd5hZyn-a6PwcmU9fLw2nVMm2NiIFilHH8LApUzYofvrW9dk-7IRku3ky7PfTB-1bDL1RBCQ3IUUFKgLwQcCtFcppqJa_CYUBG_9I7bAU2rHsn=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEg9v4iQssYJ6aJYxd293FgoAIF2BkWavcamS40M38LQA7G0KfM_mvrXmFSKJgkLKOeoWF_bsA0uR9eOJjM64a4FrHxZP6su6zCnJMcLCyN7auiw6O0DiQowJKLpZs5VYQqkZm7QRMgYnPlHNIAM0DocFzoCEzIUfVwBD58ZEdsIu-8a9S7iY2LoeYuR=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEgR6JLUHxuWFHO9J6nKD0wCg17slwpdtquYl_1hVUDp311uo8f550H6wda0AZBl5pJ3Ndgr2qZ_9RT3Dy4r0q8yK4gIbApyxiBQ14yA6J9AlToeq7LV0H7-WbQVMEO1zPcbThMBmKNAIiuiNc-WFe6UABHDUdS9ppUTfoCgwDBcuM3rFrrjd51LPDNO=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEgNjfttbWJBJuTPBSyVsRfIlhdedeLzHZRlCgRWFiEWwFTy_fxzn_hw6-InCSiILCCQuvTAIkqF3wSwxKOabyCJ5LryK6rEvWxQ_2BLzvoYej0RkW1B2dmmzClv87foYjPUkpaqjZEwtt7kDEjsG63gAkySetOorO8yd3UStnRG-RAmXVu0LuzX2wn2=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEjIe3xtDv4y1S3Aqn-QdfBRcaCyncz7TX5XIlqc6Qx2o160Q5Jy_g7rs188L-H-JiKNGrqgy6e_o-cIBCxyNZw2RH2CXNbY40Rh_I7lbUHmHd6A_mM3CqorejNWIKj5JAS18kVDPMs2oB1dCjXwN7Uq6nG85X_vhnPKve6FuTiTGsY-wgrlwEqequSt=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEhxGcCRPXzopyMqBFPI4BZ4yTIz0V1T3JUAR5ffzU0DwEVSG5qMEjTmWUiaMFY-yc_i9eOXetnjgFupU4rWN1m0WveBIZfZOVwNLcAiH_f7fJcqfgTSq-UQB6soXiKBIm89VyKMmSi5jnXle7Hj3q4fakCQkLqV5feLSTjprgeeSP8TUI78m40SDdvg=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEiWdMzLzNXYXGBzJGoQP2tOomFFCyo4Bf9sHGq4GDbEZYgpThJhKyU0Q0OAE3Gqf0EBGicvHXRkngNXuJxfuHYKOYPh-ivHtQPcurZrMAQBDnb8CFUxNrzKwPJQ7G1_VfYpT6qAASqy2aUKDUybm5OEmo8asHNR3TVu0XDXUzBeAujFk5kXzd6_joRK=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEhMGC4BBjywLt-QDyjc31V7et29kBOwhbUvLyvlsJFYEkQE6nIdbTCqYWY1-k6NA39u57zUpScA9q1Q9Ne_YL2YaIT1IBtnHyJY5YZHijQJT92Z9zSs7MFjpFvU-THaz3uWYNPbBx_HKunFywfk3yZytI3fO4hIel2SqSXUNyS_FcbJ0N2exR6et_0M=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEghH8yCQM51zl7IgUtEsWZclc8H4ogcqCLY7yqGZXgv7MmPCzYBmLDm5TopRhGWd6Tw7G1EUBpNcpiUfWQBFDYd9fqjw9g5n7n03739ppQ-JYrBHqBEECurnzaHLRID20LYyQMhlu195n_zZOR6TiihjZjqPiccL_kSsDFvx4OVws1FrWYWeyOUp1qd=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEiRqFvUN9nD-J0dZQ428BzU7t92LnpKKybibBJjmDavynd92zHjKp1yZDtrlTjceYGSV9IjYYQEGFoCzUc8-nxdsyKElezouApM1svmHniWgYOcRYhFiXCJwty6tdPFoskXebuFR_uzytIkxg3ZbTjoGQMUrRL0icG5e2LuGtoyU18Oytd_UFkUxohG=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEiRFXc5T60GgaDr9xsYDbgRokZ3gAqNAhUhgGZEUCKzQUL9OeSuD_zGw-rdIE4LS8u4Q6_EeZKqZsxbChociJ_mQ3YOX1Yo6NBNuN_M-8cIABmzrWW55_rvLjp9HgjBQp1uOfZCSeYW0ixvGc-cWgNP4rEivKovmueeIT_g1hsXf2ASX1vDFYcYOkA6=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEhJLs5umXM38C9QzfEovHps7aNFOXvju1oA1-iXinlt3OI3P2xKG92z0QxgbmrGS8UAo9uPdW0f55JUFNgCELxwMj9MiV3N44UgVl2tcCH3PBUOuGZE-pgpDALkh1wFJ4dm7TDMrGr_w5jDn6F118KWzzWrPgsaLuSIWhY9qK-gxv8dvvQ2xfI0QqHW=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEgp7KgdhkySlwcykNH_3vc_VvR0e5LxePZYlK93p5KWAVVpgZN_snvNhdr-S-rdPGfqH194S8-ig6eLK__BSrZrcfii51mLdkJ8T3DlkL1uzvzIQKISJOOg5I-tjzQ29EyR1F6pDBVUHeKdhDILBC4DTJ0vxAIkvRZmpoQ8hXxPbPMzwhHsEDoVW1qe=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEhPm83LncYOxT1RJHARznbZF-oE1jkPU4-zyD1A3GZeJcMdOZvs-zU-feQJ1LLZa-37kD3AURhNgFHN7tNGCJBYIWTenDWsVZnvWbOR_cGmiFuZxtMUy_B5fVNKG14CB2Oe9kqhFwbSyDqiWIvJhycSya9L5FM7UrE0JhWWkPzeZ2yuf6LtNlYToaIQ=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEhJLMRGKoIs6GJBeTb2akVmRB5UvwbVhOUBZhc3n91QCo4IjNZQ8m5CPHznUwv9mZ_v_OnCQUMBLU8HkjUfFX9L3pEiw9o0iTMUQhO8FvAyPBFHrBJEDuf5v34sRXcLjsJIFthj3R_UQwnuVxU8038UCGzmJoT9OrhO0bOhu6PudEVyYQW1xOQswNWI=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEjTRlWv4DMVDCzd43jYlRLQ0T0HrLjT1tNUgYzkAu4UrDZxdTA5vdDvcxsGlygghCot5mCtuDZzlPweyeEwO0fZQ8qBQjZ-DL8pxrG9G3kz6M7u9BC7XDrv6pHWPgRioDtnW2gJJiLMvN4och5Afgl_6Hwq4WGJ2a2xZl6XOhx2T8gU1_J5keea7FZP=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEghibvSCSYloKH_SIGF4Y4psOqm6kS0IHrDDYuZAh1ySI04XtufIf2CAkuNlCwi7dEEpB1Hpgf2_s0bhPv5xKlLDEyEVA-qskM1guPCDkUuzQP6QB_ikbrH_cMrUdArzaYGlnjVqGFkrbprq3UGJMkK_H0HSazASkhx25DNCtgjusmHLrjhCM_74ngH=s320",
+    "https://elogformedicalcasebyintern.blogspot.com/blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5F9qPLdvHiZDTr6M784_LUXWpZVZzhJPOsHWAKj3Rk3a0pCVc-rXJsFuD8w2FtyORqrX1KGEcSCPXSHsIRnamoFE5QKOtz9TlVoUaCZ8yLzUra1z_cEmfYSVy8kBJMEE/s220/Screenshot_2021-03-16-09-51-29-76.jpg"
+  ]
+}

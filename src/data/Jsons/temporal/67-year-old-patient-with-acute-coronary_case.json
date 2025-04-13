@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "url": "https://daddalavineeshachowdary.blogspot.com/2021/05/67-year-old-patient-with-acute-coronary.html",
+    "datetime": "2021-05-14T08:50:00-0700"
+  },
+  "timeline": [
+    {
+      "metadata": {
+        "patient_id": "",
+        "age": "67",
+        "sex": "female"
+      },
+      "timeline": [
+        {
+          "ordinal": 1,
+          "time": "1/2 hour before admission",
+          "activity": "Patient experienced shortness of breath (SOB)",
+          "symptom": "Shortness of breath",
+          "diagnosis": "",
+          "treatment": "",
+          "notes": {
+            "demographics": "67 year old female",
+            "physical_exam": "",
+            "investigations": "",
+            "lab_measurements": "",
+            "discussion": ""
+          }
+        },
+        {
+          "ordinal": 2,
+          "time": "9pm on the day of admission (27/4/21)",
+          "activity": "Patient was asymptomatic",
+          "symptom": "",
+          "diagnosis": "",
+          "treatment": "",
+          "notes": {
+            "demographics": "",
+            "physical_exam": "",
+            "investigations": "",
+            "lab_measurements": "",
+            "discussion": "Patient ate dinner and slept"
+          }
+        },
+        {
+          "ordinal": 3,
+          "time": "Night (after 9pm on 27/4/21)",
+          "activity": "Patient developed sweating on exertion and shortness of breath",
+          "symptom": "Sweating on exertion, shortness of breath",
+          "diagnosis": "",
+          "treatment": "",
+          "notes": {
+            "demographics": "",
+            "physical_exam": "",
+            "investigations": "",
+            "lab_measurements": "",
+            "discussion": ""
+          }
+        },
+        {
+          "ordinal": 4,
+          "time": "Upon admission",
+          "activity": "ECG was done",
+          "symptom": "",
+          "diagnosis": "NSTEMI (acute coronary syndrome)",
+          "treatment": "TAB MET XL 25 MG/STAT",
+          "notes": {
+            "demographics": "",
+            "physical_exam": "Conscious, co-operative, coherent. Oriented to time, place and person.",
+            "investigations": "ECG shows NSTEMI",
+            "lab_measurements": "BP- 130/80 mm Hg, PR- 126 BPM, Sp O2- 96%, GRBS- 256 Mg/dl",
+            "discussion": ""
+          }
+        },
+        {
+          "ordinal": 5,
+          "time": "Next day",
+          "activity": "Chest X-Ray was taken",
+          "symptom": "",
+          "diagnosis": "",
+          "treatment": "",
+          "notes": {
+            "demographics": "",
+            "physical_exam": "",
+            "investigations": "Chest X-Ray",
+            "lab_measurements": "",
+            "discussion": ""
+          }
+        },
+        {
+          "ordinal": 6,
+          "time": "Following day",
+          "activity": "Chest CT scan was taken",
+          "symptom": "",
+          "diagnosis": "",
+          "treatment": "",
+          "notes": {
+            "demographics": "",
+            "physical_exam": "",
+            "investigations": "Chest CT scan",
+            "lab_measurements": "",
+            "discussion": ""
+          }
+        },
+        {
+          "ordinal": 7,
+          "time": "After diagnosis",
+          "activity": "Patient was advised to shift to a HC for PCI",
+          "symptom": "",
+          "diagnosis": "",
+          "treatment": "PCI (not done due to non-availability of vacancies)",
+          "notes": {
+            "demographics": "",
+            "physical_exam": "",
+            "investigations": "",
+            "lab_measurements": "",
+            "discussion": "Patient was discharged with a prescription"
+          }
+        }
+      ]
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxpXGO_AghW05ynbjZ3lfNK6XOvc8xLfMx6Hae_fM-PVNmLi2afh8FNn6-09xEXwIBMR1S7c5ZLvX291c8zjSz4XuD74FDR72gZM_GIeJ142KZKmo-E2Bfgsn1XKHxG3ij2xxWGRYFRR3a/s320/IMG_8897.JPG",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH2qjRtESortc5HtTt4r8byZRhCQ8SaZV0jLSBP0qyO-8X2Sd2P1OTNq6OwJOYt_YLnlzUA-tioHxkJvXvJurRchgluNNSrvhf-ZiK1j1vGXFYR17392ujf88fNMHAw1EaMyftoCwVix3W/s320/c1b15845-755a-410b-9a2f-11b9bb1f800a.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgep2VScSGIoHqpx-pX08Zh-3qftaIje4c2Vr5djRv_6g20kEktKbAGy3r2lVnKKSx4dH4up1OOHTwvmbZp8AlWJ81ROE19kcYZhJdA6xFvL1w9wfqmiRTuevQ3AnP-HIE8SlR0jBjj9eyu/s320/33f15326-96d9-43a0-b28a-7bb658c002eb.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRBYbr8GrgNf3LtfuIp7w3LChQXeknFSyz0EQWDDpfruJuUl9sY1mdU8APMW9jLRi1w9vokE5Zp0Nf3mQQGpKV8eD3FahOayBT9NH8RBefPf4U0I0JGMv7ImOY5ctO5rrilEY9A6cARiJ7/s320/3439e257-caef-4ebd-9fd4-14bd338bb0f1.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZSi6zX3dv9APxrWP30x4_G2Jp09nbHZXldrChrRBUzvhLq-vPlpROqB_fwuEv-oO7CtXzVtE_52o_8AMwOwiOt2GqJFtqyW3vs4BfkpWB00O5m5GnZ56_hC7ShR0vhj1Kogui8Oe_lN9a/s320/6a22ff85-6b15-43c7-8114-975daf26162b.jpg",
+    "https://img.medscapestatic.com/pi/meds/ckb/05/25705tn.jpg"
+  ]
+}

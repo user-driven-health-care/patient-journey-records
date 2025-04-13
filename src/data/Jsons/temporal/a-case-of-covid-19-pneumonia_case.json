@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "url": "https://drsaranyaroshni.blogspot.com/2021/06/a-case-of-covid-19-pneumonia.html",
+    "datetime": "2021-06-04T01:41:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "6 days prior to 1/06/2021",
+      "activity": "Developed cough",
+      "symptom": "Wet cough, minimal expectoration, mucoid consistency, non-foul smelling, non-blood stained",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "51 year old gentleman from a village in South India",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "4 days prior to 1/06/2021",
+      "activity": "Developed chest pain",
+      "symptom": "Sharp chest pain, aggravated on respiration movements and coughing",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "3/6/21",
+      "activity": "COVID RTPCR test",
+      "symptom": "",
+      "diagnosis": "COVID-19",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "COVID RTPCR test",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "7/JUNE/2021",
+      "activity": "Patient discharged",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbZj9vSasLcavs5nQyN1xEwnno3jB9yheqjBv4-APkh8o8ibbFKCH2YgFkLy1W6cfWR2ozdWuWgpiCIOVHow8V3BKEBasL75Yxw3AhaPnQdDni267rb3oegdgUw4TR9uOUGv7VqKZNX2I/",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4nexryzG00GtCT-fSw73nGquLVwaFI0vutQ5k-Y8xgIn5oZ6n_myUjQU4tnkFHGlERqg24ULwFydifMMiq8WbjOzhJDgFBdjdsG2RLN5KKmZyb0c5GT0801U6WQqPb6H_JAEDqbMA0Ao/",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGGrmItWLM_rs0bhDqEN2jJ_g3hXoFbD45MHlUBZ6NVpOT0bw1U5-QMwEOExyBjdRa76DTLJhT_UeVDcMkImwU7Jt7eRIkERh2Bnpjw2xLCVOgM8ynJW93scWJwdeLspGW3Kmej_Nkqjs/",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvl1s7_NKZTHuJ0d894TzTaAMUJ2LSoX4e-Yj7C8J-Qw56SKAXf66bGjJA13KJi6BAtjB4MbzIgk7j-cPx2uesidr1CxDZ0eN_AhhDpOuaYPbYDoZIeT8QZFRw6xJu8FqLfvGBWHfhToI/",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaeYMgEwf5srfKZPNBe-MyFm41qdrNP5_RpSHwl2EVOUUVeidzpNsh6RHMbrHMhqHlunvBrqcm6e_ozq53UZu-fIGgU4mgDb8PkONHdiUpwRwCgmwvBjhDIs5hbm6Nlbj0FD1ICocUuno/w440-h260/image.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDSi-82TBjM-fpK6VFjtcL0H2pREJvsXfWLDh6QdpS-ZZX-PPqSpbOUKxK-ajyoNFG3LLC2KCPWStHmGb6CYrpPfJS2iqTSFcmHmL0o05TNJlloatAjIBBvjIMnEEL056cq2UkRJ8ehvg/w448-h394/image.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiMls9f6trbkvjYXxuMUci2NgpXfk6oe0MvzPNYZrvsrXBV5R7nID_CE-yRSYXBuSrqyz6iU1ksjUrTUsp_qrlbKxR_X3t7CDVmMVBR7YVn9T2hXHPuaB87jojBemAvPAEVI6hF5auNiE/w539-h409/image.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx8gNolyhq-UVQu46LKYlDgyOVrzeict8Y7g5inLj3gTrl7zWZOl7gNtGuth_FIXNhpuZ-6l-yYow7_caRPJF6PPcRwVYzNvUsxu7Vf48xHmd1Np1mlo1fj-CjQdVEF_DlCmtFhCNAXzs/w513-h375/image.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitB7lpN9WIK3LFRNeVW4Dwvyz1mbJ3aMjy3-N7XBXf-hNsLkK30urt635o01fDNCVj3eMx3l1IZ5FMCc75h_vl42swOBlCdg_webwF8yOj6QjuaeIX0KVNFbCrtmt4LkhLVwA2R5ZR-Bw/w460-h247/image.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihCgwn1NVgF5zi6dCB6Tar4Ca7Q6YtsuIY-fhJ3380hGMPtEGhtOILocWmH_zaA-73RgjjO5d_suO_nbAaUooQ9SJ5JX2t9aC4P_ycQSjb3RrnoLevIMfktdvOsBBrEV-vhEMareWyaoE/w369-h264/image.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7gbmOYC-iI5MWcf5WdJW2I6NvN3sjJX2c-dmUi2TSAgySwxn8ZTA5XsJup_9Edgbw00fZeRj6rECKB_zNtKP_swFxzSciNLTBWO81OxsYtN48tIYBRf80tJJH2JaG8742Anq6fVtc6Ng/w504-h263/image.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVMuTvspNGuHA2jlsF3t_sq52tM-Y6quwOvVEh_MC9n8qPbA7coaMkfu5geOLJ8sV76ceWxf4NI1i0Cvr5qbnzId3A5xvwbuGA4Zt6EqyVWLacWO98vDe1pKSCQe2jFnWYnBUGQ_0Auy0/w447-h141/image.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivzoD8-RfE_CFU0FsgtRYtn8mONCLCbwM2lTdrEUp3pjE1yCESe_iV-sI85rRZTDhWVTDIDLJeFctu-amkRxtqjPHnRLweHlt2Bkl0C0t23i97LfIy4keDTRc4EpUjx4VyS6RS1VQIi5Y/w374-h146/image.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCTLDwHdFq3wTyAaOEUL3D2ML1YAPv9seGqv2g9ahA4mqGIgejZXBFi3UQVck0h6JBvKT1zCmwdsStP8f77vDuL4y7MCCJ6qVs46wib19elQDIYqPtTCDvoVnfH1MbWoN9EBG1VaNmxNc/",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIS6XGXSpGGVmjgcS9Qe56cOQkIZgzS71HW5-dphSSM2hJgjutJTd4LpxaN9n8i5t_uoMV-b8Y-xxEqDFbl_dkaspjn009-L4rrNBv-T409GVsKB_0P8Xoh1hgqWP3CUoN9fPpGw_5Duo/w436-h211/image.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4FwGOZVyh-Wdzjho3TTrNkoNhc9tFpgICYjtSr6x_0kUPvvFFVvkTMTEC4rK9IatUzSFh298eNfelzLgwypBAc5fNG5vLprg7neovL47zTT9HjhLRBMiZ021Eii0VHYk3M9uIOahGxv0/w372-h116/image.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN3iVhyphenhypheneqjWLfUkX_ob2MgpviFPqsg44YFAR3UDLbc6zJvnK1TznOz643_ZiPG_zMBwSeuc3PsdD9DQcJOKg8PZqddfYUfVoG-OMSo5aJFMORUtYCuJueiwCF5HetcCcZ00SFDTdx2mqs/w459-h119/image.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw8soPq_08v_9RqcuHW4IyrGIlJHHSy5FjKxWt9fAdy-wxGnBwG-BXbnx6bPneWTQLxWG7dRwWWTf2Lyo5JvM5RmHVL0AEjvUAmFTSHum6_6YEJ-1SSxngPrGOgpV6v1SM7lahIopAT3w/w436-h326/image.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxKbIb8NtANFKxiDluvjNo3854fCi5gbu1UUYLadPcWYSMh9O2VTVhyLY7mcg8D8viCBdGXtKZ7JBO1jaLVkVw7FJBxU0t4AJmAbxq80_8J5ZtL9NYcF0HtAz6kvCLuRVne6E8-9ZFAdk/w435-h212/image.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg5InZRFfz-CwSRVDe0s4VpKV3WW4bB-EVaPbvd3EXIJ5tWG_99-LuEcD7CAWUL5r1hERc9VZ9REv8i7_HYHrbDUyYLn6SkTqphvf81c-R0g3MhOxVD6779JkGbjM-MQnQg8HTx58tuCA/w386-h312/image.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyR0tFUxKPi_x2wpRawFHz94rjUAyizQHo-49OfxthJTlZSr3dqtRYExWY8CiBSlgTgzrBMSKB73c1yLmNJ9Caan89ZpGa1S72Dt5BCpofD4OArRbatYLKIDYUSuLxN07TmYmmqfxsCiE/w345-h346/image.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4ZxeGqPa1sTzlyH0V7R0EpFpq33NaxDrqxCc08myLvagCb5_M6nMDe4SQnO73PPJjUkWnWYsgDs3hNiza7ZRU9LANuStgi-h9JPdSzRUR2VqNEYwiiGwnR93WRg-3rqHL1bqfGq68AYI/w393-h114/image.png",
+    "https://resources.blogblog.com/img/icon18_edit_allbkg.gif",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAQ2XrD-2CzuuGfilOBK23fqs9Dyg9vkz1J5ppEE8ttL52g567OBal4VkkRjkllplMb7AB1rldNfLgqvV0-nVOJk13aBFe8uNuGjFRINjNZi7-tftj6mvwAthdz3ctQk__xqk6Rcor1kUsZgbMGdKiXDyuLNNNvWdgNJY2whns9JEzt-DGH2RJksFcBQw/s320/IMG-20230803-WA0032.jpeg",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEhwn8wKVcCfKtOT_C0THmOntgjoGENZ84qTiBHHJ_276g9GXafXgCaHHRwNLY7sZetOuGRxyzLveI6_fFSBMlguyHx094HtMJALlezxpytopPOrVbi4e-ftuSIovbKmLmFI8ykMiY_DAVUUxInVa2ffJBQiQw_QbinLOFGudhEMsc-j9_kjD5R9mYuZ=w72-h72-p-k-no-nu",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVVBxKq82-G_-95Qutk-M-Wz1ECvkvuRralro3Wnmvr5ftaXwszSaxoAlsto3DZRa3lINT_0dqyhR-efvpVSb6GKX05cotNDRq-z1V8okd1b4EtHUFAQFCa_w4JOJIWUlMSgvvca1gXbjeeDJUiFATQfiXklnU54T0C5ToyiSbnanQZ_IBGkNhdVD8/w72-h72-p-k-no-nu/20220613_185051.jpg",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEgc9p282aAZVVGwF61hKLRTKrPLbOSRH_Sr4pvlhRGRz25L8OPg9F-IekAY99vEjGiizn_QR0wglm8LEPxbKyRyv-YOKfX3Ngdl1oAHWi8qa2-0Jms6fKEcgeuDvhdcl8sw2GHQnoSDqXxQjmK-9wny-UJ8n-57H7xXgLZNNMk7J1jr_ePImZA1Po_7=w72-h72-p-k-no-nu",
+    "https://drsaranyaroshni.blogspot.com/blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-uHCGj4HGjEZxQxk2ry_vFr14EvSyEWbmsJN8hlIZjnj4sjq1NHvNgYU-BBuEIPkp2yltkaSrOhKkb2hLFBLAbIzhsp-D0qv5Bu2EAK7LnYb1SVPjWsWUX2Gpdf-i8Q/s113/pic1.jpg"
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "metadata": {
+    "url": "https://gtejaswini61.blogspot.com/2021/09/a-25-yr-old-male-with-sob.html",
+    "datetime": "2021-09-28T09:06:00-0700"
+  },
+  "timeline": [
+    {
+      "metadata": {
+        "url": "",
+        "datetime": "",
+        "links": [],
+        "additional_metadata": ""
+      },
+      "timeline": [
+        {
+          "ordinal": 1,
+          "time": "3 days ago",
+          "activity": "Patient developed high-grade fever",
+          "symptom": "Fever, chills, rigor",
+          "diagnosis": "",
+          "treatment": "",
+          "notes": {
+            "demographics": "25-year-old male, factory worker",
+            "physical_exam": "",
+            "investigations": "",
+            "lab_measurements": "",
+            "discussion": ""
+          }
+        },
+        {
+          "ordinal": 2,
+          "time": "2 days ago",
+          "activity": "Patient developed vomiting and cough",
+          "symptom": "Vomiting, cough, scanty sputum",
+          "diagnosis": "",
+          "treatment": "",
+          "notes": {
+            "demographics": "",
+            "physical_exam": "",
+            "investigations": "",
+            "lab_measurements": "",
+            "discussion": ""
+          }
+        },
+        {
+          "ordinal": 3,
+          "time": "Today",
+          "activity": "Patient developed loose stools and chest pain",
+          "symptom": "Loose stools, chest pain, lower back pain, abdominal pain",
+          "diagnosis": "",
+          "treatment": "",
+          "notes": {
+            "demographics": "",
+            "physical_exam": "",
+            "investigations": "",
+            "lab_measurements": "",
+            "discussion": ""
+          }
+        },
+        {
+          "ordinal": 4,
+          "time": "Admission",
+          "activity": "Patient admitted to ICU",
+          "symptom": "Grade 4 SOB, fever, vomiting, cough, loose stools, chest pain, lower back pain, abdominal pain",
+          "diagnosis": "PSVT, Pancytopenia, fever, ? Acute gastroenteritis, ? Typhoid fever, ? Viral pyrexia, ? Pre-renal AKI",
+          "treatment": "INJ NEOMAL 1G IV STAT, INJ TRAMADOL 1 AMP in 100 ML NS IV, COLD ICE PACKS, IVF 3 units NS bolus, INJ CEFTRIAXONE 1G IV BD",
+          "notes": {
+            "demographics": "",
+            "physical_exam": "BP- 100/60mmHg, PR- 184bpm, regular, RR- 46cpm, Temperature- 105 degrees, Spo2- 94-96% on RA",
+            "investigations": "ECG monitor showing PSVT",
+            "lab_measurements": "",
+            "discussion": ""
+          }
+        },
+        {
+          "ordinal": 5,
+          "time": "After 10 minutes",
+          "activity": "Carotid sinus massage performed",
+          "symptom": "",
+          "diagnosis": "",
+          "treatment": "",
+          "notes": {
+            "demographics": "",
+            "physical_exam": "BP- 80/60mmHg, PR- 120bpm, regular, RR- 40/min",
+            "investigations": "ABG showing pH- 7.419, PCO2- 24.2, PO2- 92.2, Spo2- 93.6, HCO3- 15.4",
+            "lab_measurements": "",
+            "discussion": ""
+          }
+        },
+        {
+          "ordinal": 6,
+          "time": "Day 3",
+          "activity": "Patient's condition improved",
+          "symptom": "Dyspnea and cough reduced",
+          "diagnosis": "HFr EF with EF- 35% secondary to severe PAH, ? Viral myocarditis, ? Typhoid fever, ? Pre-renal AKI",
+          "treatment": "Fluid restriction, Salt restriction, INJ LASIX 20mg/IV/BD, INJ MONOCEF 1gm/IV/BD, T. DOXY 100 PO/BD, INJ OPTINEURON 1amp in 100ml/NS IV/OD",
+          "notes": {
+            "demographics": "",
+            "physical_exam": "BP- 100/70mmHg, PR- 91bpm, regular, normal volume, Temperature- 99.6F",
+            "investigations": "",
+            "lab_measurements": "",
+            "discussion": ""
+          }
+        },
+        {
+          "ordinal": 7,
+          "time": "Day 4",
+          "activity": "Patient's condition improved",
+          "symptom": "No dyspnea, no cough, decreased pain abdomen",
+          "diagnosis": "HFr EF with EF- 35% secondary to severe PAH, ? Viral myocarditis, ? Typhoid fever, ? Pre-renal AKI",
+          "treatment": "Fluid restriction, Salt restriction, INJ LASIX 20mg/IV/BD, INJ MONOCEF 1gm/IV/BD, T. DOXY 100 PO/BD, INJ OPTINEURON 1amp in 100ml/NS IV/OD",
+          "notes": {
+            "demographics": "",
+            "physical_exam": "BP- 100/80mmHg, PR- 88bpm, regular, normal volume, Temperature- 98.6F",
+            "investigations": "",
+            "lab_measurements": "",
+            "discussion": ""
+          }
+        },
+        {
+          "ordinal": 8,
+          "time": "Day 5",
+          "activity": "Patient's condition improved",
+          "symptom": "No dyspnea, no cough, decreased pain abdomen",
+          "diagnosis": "Cardiogenic shock (resolved), HFr EF with EF- 46% severe PAH secondary to ? Viral myocarditis, ? Typhoid fever, Pancytopenia secondary to infectious etiology, Pre-renal AKI, PSVT - resolved",
+          "treatment": "Fluid restriction, Salt restriction, INJ LASIX 20mg/IV/BD, INJ MONOCEF 1gm/IV/BD, T. DOXY 100 PO/BD, INJ OPTINEURON 1amp in 100ml/NS IV/OD",
+          "notes": {
+            "demographics": "",
+            "physical_exam": "BP- 110/70mmHg, PR- 76bpm, regular, normal volume, Temperature- 98.6F",
+            "investigations": "",
+            "lab_measurements": "",
+            "discussion": ""
+          }
+        }
+      ]
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl4o5wR1Dm_YgD99iR6OzpauhN7LK-cRgFYkH9t85wPKDt1sygPjxRskLDo7gvJiw5CUuHsRAaRrYe2JP9-jgSq3nXsmS5l0SfOYBAwiBJlGSGezJfgmepo0KLYKKD72JV87ErD1chs6M/s320/IMG-20210928-WA0093.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi6yHe-YubfLUq2ft9xu1cJFUKzdDjZDSMsx9o7hmxFLFcoegAz_3cWZfseI-YaCLOieVDP3X5Azb4P45ReN2XNI-tOEkxU9VmgAddOAgGGHF3Hj2H848Yx04VbpC96B_sRECscVYd16g/s320/IMG-20210928-WA0096.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgut3ShK04NfciQqptKPQi4_kOxQrRTl9PJ5IRcBAKpl40maN9IRpecntDJgRrBmPTOSd0u-9FgldRdT-TM5JjBftgLs8NlTlpvgbvLb_godKyPwv66owmUmvX0-c9Q8xS1ZSztPJc8yUs/s320/IMG-20210928-WA0098.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQvi-KRhH3MNSwqdWBgAeOBO01CtigPa-suXYNE5ag2PXfgWhqg9YgyGkrII3aMXalvW-hoJsLyAMBTZ0KUFkWjGy_JD_WFGt6G6jHVctK-cMptKEl_gMCtCN-LTdr81e-ZReLCmqptvo/s320/IMG-20210928-WA0081.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCh5Cpvhb_AOTG8BYInvS7WwL23Pibe2jdKvg219_35ahT-VS5IQDn1ZVRNa25Wj175U0JC5IqWhw3SF_cecllvjsnFy21OeIaXI3rnQwCwwas0wRYt7-LdaQFvKzAUUjNjkm1P10q3AM/s320/IMG-20210927-WA0134.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguTzoR1zrjEXeC1mrUTCHBk5mc3b9aoJmjVye9OMQvMbi4ljsARtgQVlz-TAQxW459NYZylje88pPkBtEcPcd8AB7KliZz9Gu4Juw123dx1ETEMWIW52w13eq2bheWC9MDhihDdSNhUoI/s320/IMG-20210929-WA0082.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB-c15F8LAICnjWcz0-maxmeFRSJgab_gQ2UEnYYs_wv0FacP6f0iMGS_1BinADpemO34mnzGa9nuhIeZoTCCW_Q7BifdEOrmsD8In-0yrRzHqDpfSEcuvk7VCUMrmKv0mIezmnSMZaCk/s320/IMG-20210928-WA0064.jpg"
+  ]
+}

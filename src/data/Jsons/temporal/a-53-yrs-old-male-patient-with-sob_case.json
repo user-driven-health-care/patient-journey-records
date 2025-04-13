@@ -1,0 +1,176 @@
+{
+  "metadata": {
+    "url": "https://gtejaswini61.blogspot.com/2021/09/a-53-yrs-old-male-patient-with-sob.html",
+    "datetime": "2021-09-07T02:49:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "1 month prior to admission",
+      "activity": "vomiting and abdominal pain",
+      "symptom": "vomiting, abdominal pain, loose stools",
+      "diagnosis": "",
+      "treatment": "I.V. fluids",
+      "notes": {
+        "demographics": "53 year old male, cycle repairer",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "patient had 6-7 episodes of vomiting, associated with pain abdomen and loose stools"
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "15 days prior to admission",
+      "activity": "development of pedal edema and cough with blood-tinged sputum",
+      "symptom": "pedal edema, cough with blood-tinged sputum",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "patient developed pedal edema and cough with blood-tinged sputum"
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "admission",
+      "activity": "presentation to casualty with shortness of breath",
+      "symptom": "shortness of breath, cough with blood-tinged sputum",
+      "diagnosis": "cardiogenic shock secondary to HFrEF",
+      "treatment": "intubation, vasopressors (noradrenaline, dobutamine)",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "spo2 56% on room air, pulse 112/min, bp not recordable",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "patient was diagnosed with cardiogenic shock secondary to HFrEF"
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "day 1 of admission",
+      "activity": "treatment with vasopressors and diuretics",
+      "symptom": "shortness of breath, cough with blood-tinged sputum",
+      "diagnosis": "cardiogenic shock secondary to HFrEF",
+      "treatment": "vasopressors (noradrenaline, dobutamine), diuretics (lasix)",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "patient was treated with vasopressors and diuretics"
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "day 2 of admission",
+      "activity": "pleural tap and treatment with antibiotics",
+      "symptom": "shortness of breath, cough with blood-tinged sputum",
+      "diagnosis": "cardiogenic shock secondary to HFrEF",
+      "treatment": "pleural tap, antibiotics (levofloxacin)",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "spo2 92% on 8 liters oxygen",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "patient underwent pleural tap and was treated with antibiotics"
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "day 3 of admission",
+      "activity": "treatment with vasopressors and diuretics",
+      "symptom": "shortness of breath, cough with blood-tinged sputum",
+      "diagnosis": "cardiogenic shock secondary to HFrEF",
+      "treatment": "vasopressors (noradrenaline, dobutamine), diuretics (lasix)",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "pulse 140/min, irregular, low volume",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "patient was treated with vasopressors and diuretics"
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "day 4 of admission",
+      "activity": "treatment with heparin infusion",
+      "symptom": "shortness of breath, cough with blood-tinged sputum",
+      "diagnosis": "cardiogenic shock secondary to HFrEF",
+      "treatment": "heparin infusion",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "spo2 88% on room air, 96% on 12 liters oxygen",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "patient was treated with heparin infusion"
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "day 5 of admission",
+      "activity": "treatment with vasopressors and diuretics",
+      "symptom": "shortness of breath, cough with blood-tinged sputum",
+      "diagnosis": "cardiogenic shock secondary to HFrEF",
+      "treatment": "vasopressors (noradrenaline, dobutamine), diuretics (lasix)",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "spo2 88% on room air, 96% on 12 liters oxygen",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "patient was treated with vasopressors and diuretics"
+      }
+    },
+    {
+      "ordinal": 9,
+      "time": "12/9/21 @ 1:30 am",
+      "activity": "cardiac arrest",
+      "symptom": "cardiac arrest",
+      "diagnosis": "cardiogenic shock secondary to HFrEF",
+      "treatment": "CPR",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "bp and pulse not recordable",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "patient had a cardiac arrest and was treated with CPR"
+      }
+    },
+    {
+      "ordinal": 10,
+      "time": "12/9/21 @ 1:59 am",
+      "activity": "death",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "patient was declared dead"
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijjGx1YPihQexRpMNMNPR5dqFvKzn61kqfR0ji8-wyffaFSSoQE5f2V_ATuTOWSoKQAP8CFzfvtaLLTOz263Rg9Mt6riNXo_d9GxP47O3OX4drSJGsVxCLAbkTs-njpypQXZinM_VUpJU/",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguUHzFbf3tl1ginPkFDupiCIHoYhInSsetMa1JZBUhQKYGq27yGVuPekQOhL85ACri4aEMY85h_-IT1IYs3kjctWO7EQXxz4ElE3CudKKl5eWpyxHGke2dhujvMKhw5aoo3GOOJgw8VRA/",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYziB9AiKLX2XicNju-eMFniMJr6Fft86x_KZTSbZ3gcR2GwGxb2UdpP2WQDv5ziKqvbrpa8S-hHv82aBBOiisGjE4tunXqOAcGNbC5VTRscNJ8oUrdRrl8Ldd46jnKA617Z8MfI0kbGc/",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGety_3PGSVgfAVrL0u8ODXGkAzM2Zv9bU7-hoWJwDiQPzSG8bqKa1QOWHWeI0c5VxKJr_NCw8dAI-ar0bdIu6AT-ON1J715c5Qvkw1u8kbDDhyYyhu7nWI7DlA1pG2v4IYxqS76JHphU/",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzM7qLkaAwM0OCMHsZhYSgFnvIoGUiu7TcNjmMPx-ckGv6-U2GoIUTloKaf8W8EkNWbJStSG0AR-83hl6DuKKlMtRAoU1SMA-HD9JbqRonxr7WpifsdJx_unCwTdGgu0Jv5Sl84GWMxkQ/",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8-wHAkWauFk6NiKVTPwF-bhxFW_kxrvo237VmOZb5y39usT0_ox4narADfZ86ejoAaRInfq4tVJKy_XUWA2B1m1AlvEaFFGK0A9VK_wugV5tRQCUKvqEYKt1Kp_igMGdPBoutktESC7A/",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHF9mY77LU9PdCjjb1TqxeNkAi_4s-AG4_AFtFl3SR0u_jEb47ahUOe-RKbN_5apROLopSKIcScgi93SICMfzh_61pUuuIY9GGRTZLHkYT75rvuVw6aQibzPLirdssjDoRtsDh4IvYfOs/",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjs6mfb-WAuDk1BySpTHSLTaIh1SXWE_k5_ozOcDUz_pP4CKDQmd3WtivIsb_KcjOYSgzwkRipsc8Cpjv8DcLZmjHzoZvNXsvxy4tmXxPw12ZyXSGTMhyd1J5Lm0g5XYHgbKz2xgFbZsU/",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimhrVuWY9aspzthz3X8GIdBJf92b2RsSfAyfJIDO2JUxum4BpPdRQZHHX_fuqbpgxJAacPvpXvaSEJToPKu9bIhOaEFWLBBn4Zdj13Ipml_p7F7KFm9QxD7x8xYZZESRfvmh6VTyVBzZ8/",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqBrQNCTChXJMaF8inrUVGls-_iwmZA6U8aFcQkjvF2YV2FmBxmUp0HbcjBWsC9jjU4lP_g8sDTkUQE2agXmyRWIP2mLabYoPZ6ayrV6yKNHtWby2lfn4rA4xbibE9oUbMCGHQg7bMNng/",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixkvsLZOTnfLJ48Ck9fLLrh4k3LWsXrJt-Ot3QA14ZE6h12DcAEbdCZdVj1IRMSAVVz8TvAtUWaN6WfdNF0tOaR1t3roOOMtlsfzfEK_c6S7lyrvpl15dSGoinua7Pg4uIlAI8O3eCMWY/",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPkq886a81U71cYWUw2Zd81KZtN0xrQq-Al67fnxobqGBi54rE4NJj11RvqN0nzf9H3uq15vpf2z_4sCBlCcMli_2Rp5vdDOHvPESMviiPjL85HL5UGoWhTLsZzHb4H0GxxGcYGNPvg0c/",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6TcylZEe_V0_CIOIeiIWJXykt_BP33Xf0rS45PqfrLLXqYC0KiWzMCQav0yI9RM_EAYE15NqdsqCSAa_W8ClOsZkApR7FCKEhehDVeDkyXv2vKANRtC4r54XSlQjdCWepqzS0a0BEJok/",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPzv7CQ6arAZEhMwEwxLzXuzRslvaxCRsiIl8qPrUx-OfTzPwmpkgKG15pzhtxsvbyC9_lvPrSpZiWBlr2jDcTKqFRoZ8m65vJE72Ti5xP-vdIuZXYNJW4uoKSbw1Zsb8mPZ-dflTrSkA/",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtE9rY36zW2NNXihjD4tH6n-8jr5prgVl3rkIrjiAUrgLjOZ8fVvM65i1G_c53XiV5VKqMg1h32uLDkDTS906kj75ASRx7fY8nQ_T9x-vHHbeqsiuxhf6BqKgoAOviRzSAbK65g3GD6ik/",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB-c15F8LAICnjWcz0-maxmeFRSJgab_gQ2UEnYYs_wv0FacP6f0iMGS_1BinADpemO34mnzGa9nuhIeZoTCCW_Q7BifdEOrmsD8In-0yrRzHqDpfSEcuvk7VCUMrmKv0mIezmnSMZaCk/s320/IMG-20210928-WA0064.jpg"
+  ]
+}

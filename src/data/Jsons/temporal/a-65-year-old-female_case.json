@@ -1,0 +1,262 @@
+{
+  "metadata": {
+    "url": "https://harikamanchalarollno67.blogspot.com/2021/09/a-65-year-old-female.html",
+    "datetime": "2021-09-12T08:15:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "10 days back",
+      "activity": "Patient developed fever",
+      "symptom": "Fever, headache",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "65 year old woman",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "10 days back",
+      "activity": "Patient had vomitings",
+      "symptom": "Vomiting, non projectile, non bilious, non foul smelling, non blood tinged",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "10 days back",
+      "activity": "Patient had loose stools",
+      "symptom": "Loose stools, watery in consistency, 2-3 episodes/day, non blood stained",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "5 days back",
+      "activity": "Patient had pain abdomen",
+      "symptom": "Pain abdomen, epigastric region, abdominal discomfort, bloating sensation, loss of appetite",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "5 days back",
+      "activity": "Patient had shortness of breath",
+      "symptom": "Shortness of breath, gradually progressed from grade 3-4",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "7/09/21",
+      "activity": "Patient was treated conservatively for 5 days",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Conservative treatment",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "SR creat 5.2 mg/dl, urea 82 mg/dl, HRCT chest, CT abdomen & pelvis",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "7/09/21",
+      "activity": "ECG was done",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "ECG showing normal sinus rhythm with heart rate of 102",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "9/9/21",
+      "activity": "ECG was done",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "ECG showing ? svt with heart rate 180bpm",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 9,
+      "time": "10/9/21",
+      "activity": "ECG was done",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "ECG showing normal sinus rhythm with heart rate of 82bpm",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 10,
+      "time": "11/9/21",
+      "activity": "Patient was given treatment",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Salt restriction, INJ.PANTOP 40 MG/IV/OD, INJ.ZOFER 4 MG/IV/TID, TAB.DOLO 650 MG/PO/TID",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 11,
+      "time": "12/9/21",
+      "activity": "Patient was given treatment",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "IVF -NS,RL@150 ML/HR, SALT RESTRICTION <2.4 GM/DAY, TAB.PANTOP 40 MG/PO/OD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 12,
+      "time": "13/9/21",
+      "activity": "SOAP notes",
+      "symptom": "Fever, body pains, generalized weakness",
+      "diagnosis": "?UTI With Pre renal AKI, ?chronic bronchitis, Paroxysmal AF(resolved)",
+      "treatment": "IVF -NS,RL@100 ML/HR, O2 inhalation, Inj.ZOSTUM 1.5 gm/iv/bd",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Temp-98.5 F, Pr-105bpm, regular, bounding pulse, BP- 140/70MM HG",
+        "investigations": "",
+        "lab_measurements": "GRBS - 109 mg/dl",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 13,
+      "time": "14/9/21",
+      "activity": "SOAP notes",
+      "symptom": "Vomiting, fever spikes",
+      "diagnosis": "Acute GE with Pre renal AKI, ?acure bronchitis, Paroxysmal AF(resolved)",
+      "treatment": "IVF -NS,RL@100 ML/HR, O2 inhalation, Day 2 of Inj Piptaz 2.5gm gm/iv/TID",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Temp-98.5 F, Pr-78bpm, regular, bounding pulse, BP- 120/70MM HG",
+        "investigations": "",
+        "lab_measurements": "GRBS - 109 mg/dl",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 14,
+      "time": "16/9/21",
+      "activity": "SOAP notes",
+      "symptom": "Generalized weakness, cough",
+      "diagnosis": "? acute bronchitis, Paroxysmal AF(resolved), Pre renal AKI SECONDARY TO acute GE, DENOVO HTN",
+      "treatment": "IVF -NS,RL@100 ML/HR, O2 inhalation, TAB.PANTOP 40 MG/PO/OD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Temp-98.3F, Pr-80bpm, regular, bounding pulse, BP- 140/80MM HG",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 15,
+      "time": "17/9/21",
+      "activity": "SOAP notes",
+      "symptom": "No fever spikes, cough",
+      "diagnosis": "? acute bronchitis, Paroxysmal AF(resolved), Pre renal AKI SECONDARY TO acute GE, DENOVO HTN",
+      "treatment": "IVF -NS,RL@100 ML/HR, O2 inhalation, TAB.PANTOP 40 MG/PO/OD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Temp-98.3F, Pr-84bpm, regular, bounding pulse, BP- 140/80MM HG",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOahhObdIFypZX1GBDYY2VqZa5FrJPT9jbkhN26PkbMC4h23OLuwyapLwQcYaM6cfMgSzATh1nC2diRKVzsvN7gURXYSoI4MumJubfOEYEhszolD34YKU4FEIMTOxc-2kDln8nVy6KhpM/s1600/1631461335143820-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTEcEufPViod-9H51ZhasQZ37qz5y_9jaDUEyXhC8nyHYpbpEm-UdLs7qjBc4ZyD8BxRpsRepsNlQH7gTKGHjZBZ5blXTI9ngIgs9c9aQInsnXqRSy4EPOpmc5cLKuGKdsrzlFyjJDE_I/s1600/1631461014414173-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiatohcZwmX3wJlI6_AkOU4YDZZUP3oK5c46Iy1v7E2FL-1Gi70w4Ufn5QLnCksz3CImcLuLr8LAvMAPrK9fFOSe6GKV_0lUfNrqJnovxr5qiumnBWe-M7xHWVB5ovQfPvPJ6zdT9Vz4RA/s1600/1631460940839616-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3b4fzrqhyphenhyphen7ArocMwM1L_hVJzaoThdHrgm9VQ2KElmAU3_SdapRdMNIo1miVRiAtq31q0Bawt_fSsmzP_zdy3114nIkMRDmDRunSrunyU7SCNpElpvKt5IwDVhevR62Pp2UC4jNGOwWSM/s1600/1631460928723821-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtQaVntDuCZ7QOthgp15zGAys39Ol809cUKMWJuomMfXwWfXrbmou4q9xf_Tsoq1nsWcnp-2UPcRt_QyeheR2-fm1Hfp-Bs7aV-pqTDToQ5ty2PRvrBzSGbkOh9JgEIYCfgzf2oRoIH4g/s1600/1631460923699801-4.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLBP0HRGa-enuOcHla9nhDnExEsKk7PMMN4xyEa7ULhWolrg-vuvd_1PLS1o5Gc_WYu8vCswEkDHCi2r7aWvzFwplPyBG4HuzVFN4mcogGDfRdXjN0Rm_qbm-eaVHglBLzyPsX5WpffEM/s1600/1631460909906377-5.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJr6NLK0xYQbbqr0fsN0WbKICy8SWZrlC4517SMoRhtKv1BEqgNFPVZenyxm9AdVSNLqkirhOG3G90f062yiKQBgETlR8wYGVHc6MsGuNkOCRJ8Uy8F9hTUERoEvKmQLH1fMms_musB0k/s1600/1631460900083891-6.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTNrDl1KfzHyl1DmVt_wnlQ9UHWnryM5cu0GPvCraZWrEbRXQSKZ7EZxdP7OuL1N1wd4elLz5lbxQQq394WmznpYiETzdCCJpL66ebKnVmibgR_jcbu5wNvqL4gu48X1jsgfRobwKkUig/s1600/1631460886411458-7.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPn8qK6rp_Cl2NaI4qEguUAHP3j9LeWwEQrzj9eAg-nM9oBNL9-3CbKBbQjJ0aX8zf7fgyUlKIUnkNAEY_4i6duf3ELldAaw9o3ToLA57UXToQ3sK8pfUWJaWW3gI6mwXb_436OIFP6AE/s1600/1631460875944823-8.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk1Lrae0hL-S9bt1WncbpBD_GZp0pYmiVAjn_cQsU1czXr0rSFy44him-Rws1N94-mKZ3HI5YmzBb2FGhtplhTgL1oTJ15VxUmbojmWCTbmDZqC6RSY4loRw5_LZZ0nmQ-C3VlHy2ywZE/s1600/1631460867208681-9.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOqEDnokLROeOGsm3fq9zXkiTFlPiQ1S3ff-cY07H6d258x2aTnxmoHd_38kJqmix-HMWGdqib9kO4P72XuLUOjf3Id-t7_XYKXMKyhjo0jdDcbA7-HDp_chEU6IMRirXgfp8BkHzPHIw/s1600/1631460859790779-10.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7FGfOPwwroSUhLSlomDW1xluZkxRwvychGpdB9tONpzslPM6QaecyqqMY5Sr6Jl7-8JSp3SVKsnWW5bABU_0dL-fRisqXnQ9TEpk-3qkDleB_bbh5I2mtvLX8LYHu45fxSriXCc1Dhdw/s1600/1631460847432323-11.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYtJ8pwiPobbclllKJ-NhZ3V5fnbZsasriE25y5aQMkg0xwSLguk8JAsw4kAb7uGOqGfyv9dq1dvXuuO_38mHfMlZkZ86yTb4iEjFwAPsSmT8mqD8HF9kyN9z4G0LcJ1Qmsq-Pg0sD4cU/s1600/1631553330915673-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieHYAmpiiqNsAs6p9AYYTiS96r5qJq_Ca4Z1-xwczrij2giAVNEuc4V5uHK6zcG6tTA2ChhMYmMM61gDq9oHdShKeWVVxuY_3VZYhVPjb51YD1FbkxTkzxdx7bnLSwAKJDYCdJ0x2IFYM/s1600/1631553321444739-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTMhBcgFon7ylzM_gm8JEWUZEjDudLXNl14QGwTUbvxZo0mAkToT3l3JavJBKqY_e8zDpW_hf4k7ff86Znz3evg4NofQtfsMpWijWZnc7bXGc-Fp34EBrfF8G0fgFXXEEfSNwo-RW1HJM/s1600/1631553309360021-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC0L3qyTl8aiezLbgWYOrAlLom6Cj4lZeNm2WAt48n6yElG5ml_Uz6tNDUdtfkOC97U1p6n1FPRVMt2WLvWgPxtCcXJobwGIAR5SJ5XLMLqgeOM1fDlL1B-9kdzEgIn0CFwUYjR9t5MJ8/s1600/1631553304836692-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipEeIUj3xLGm5SQvqEZHub-_XhyUYLOa3n9yjRVw8LZaGzR7FO9oOKFB2HafD9DxivNlQBHZOTg17THfQPvl8APTbKRTv_xs380Miqbfnu77eVWOVz3vWS-ZHpt92HWkLED6ud6R6ZmYA/s1600/1631553271805243-4.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvC9Ro0zkPfNMBi8kky7ZlG7npd6xgRadQ4gdfzXS5NrkoYIODCraeL58E6BifSdzNYFOvTDKldveIye5Dcvo3QXDlrVklQZywhglj86UaMyvEM9JMgDNc3wUVO39r4YWycsJucrS92nA/s1600/1631553232703854-5.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGH62M-DWbKJsJF5KsTCrt4gKrGPXU-ktcloxKdfmBrgHAvao93JgGnE5caxrxkf1XTuv8nqX68Xyx77KIysnS6ow9BdvES5_1_tNW2l6g53DvncMBDQTcRVFD5PLWPfpoxtNC9gG-5VY/s1600/1631553136718797-6.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFrFhi5eo6QR_NSCvpm25ykwJu3yU438-0yuTWP9PSQty0TGmppgsfp7Yvn7-dYEVm4lQogXX-wXJ4MknQH4fAvk6Hw4WkvbTyVgB4cvR4zVlfNIviw-eHz-EEkTXumIhUk4ayUIC9J-0/s1600/1631553126816670-7.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6KLY_R3SmKDNDFHmwseYg24WDhneZW2NADi1ICjP2QlTn_dpFY75cbJJmHNrp0Ztp45v3d6czN6t-Dy2RvcLabdr0KTzecTX6Jq_8MF1LYyiMCPfCiAL5AjhUO8_6lCRJBZFHqu9Y5x4/s1600/1631672000631078-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiDbHa7YkPSKsNZ5d5hNcpYoRCbcMXlCxl8527VWTkv10X-q8ZejP2fcLgnW7piL1-uDOF79S1lx0fJrZkS9OGq4oaOhqe8VrN87x7YB5Sqe4ssGt4NZTNHcmINlQ5TmgSM-F6tLWhbn4/s1600/1631671983400868-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVysPHYqbsE6ppot50E7qUT5YDpAe3s7KI33XD99pPvG6oaXhV8mmSpSViD8j9rJNDnv0JTA_GTAfWSkrYnHdGuAG73sNw1E5mqnkQoOLLrmp47fmfd6quh44FodhIlGwcuYJIoraskoE/s1600/1631799598996725-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigo-C8mKlfP9FcJiO0zMHNnX344CHJyhka5EWWR9iCj40ONREcvsx9Y9PqSnATciZ8wye1PGg_l45bkZpXb4Ez9xamxYEmIrSIr-hbNBOw9m16fBVHnbcXyzwDgNSJTmd4TzMVnQd8JD8/s1600/1631799591605907-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWZxGq25GCb8YMWXBWZXNULl6Rf5qk4-15A30o0wMWSvDBbF0lTbpSOnJDdplWWySdGNduvhFVGJOl5LNAM4Hnde2OTxmzHSeCCUzyzacLc5ish8hBxZRNgE6aZQfBMq3YtcYcl6Vx2Kw/s1600/1631799585560340-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjT5dNDVf4rDSxf_lEMnCywyM-YTNuUun775iR_VN9lDvOQ2fCUxYRkqEx3yhCcI2gkWqQeFmdhpdcr7Dg_b7HlL5-KgIEnqvetlX1RGc9n1c2I36QMIQ2h0zEMUD4cx7YoAhyW3yBFQ8E/s1600/1631799579397490-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQw76_lVi_QwCvXn2YMbYav7nZc2YwQPEBsIwZElWxWjI8MltwZXYwg5uIJSFr5UXQ3ycFkUdcXMAd80Q-Y8bRhD8hftqr9PBmOGOgawof9AcPXgmwqeiWylSk57aSzuUfGYZ3bhIpYsU/s1600/1632456470476391-0.png"
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "url": "https://elogformedicalcase.blogspot.com/2021/10/70yrs-old-farmer.html",
+    "datetime": "2021-10-10T02:08:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "8 days prior to admission",
+      "activity": "Patient experienced fever, high grade with chills and cough",
+      "symptom": "Fever, chills, cough",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "70-year-old male, farmer by occupation, retired two months ago",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "2 days after onset of fever",
+      "activity": "Cough was relieved",
+      "symptom": "Cough",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "Yesterday",
+      "activity": "Patient experienced pain in the abdomen, burning sensation",
+      "symptom": "Abdominal pain, burning sensation",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "Admission",
+      "activity": "Patient was admitted to the hospital",
+      "symptom": "Fever, abdominal pain, burning sensation",
+      "diagnosis": "Hypovolemic shock with MAT, UTI, AKI, HFrEF, CAD",
+      "treatment": "IVF, inj norad, inj lasix, inj dobutamine, tab dolo 650",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Afebrile, PR- 76, irregularly, irregular, BP-100/50, RR- 22, CVS- S1 S2 +, RS- NVBS",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "5:30 AM",
+      "activity": "Patient developed SOB",
+      "symptom": "SOB, cough with expectoration, respiratory distress",
+      "diagnosis": "?AECOPD",
+      "treatment": "Inj Hydrocortisone, Inj Pheniramine maleate, Nebulisation with budesonide and ipratropium bromide",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "BP-110/70, PR-120bpm, irregular, Cvs-s1s2, Resp- fine end inspiratory crepitations in B/L basal areas",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "After 30-40 minutes",
+      "activity": "SOB subsided",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "PR-90bpm, regular",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "Day 2",
+      "activity": "Patient subjectively feeling better",
+      "symptom": "Cough, SOB decreased",
+      "diagnosis": "Cardiogenic shock (resolving) with paroxysmal AF",
+      "treatment": "Taper ionotropes, IVF, Inj monocef, Inj pan 40mg, Inj neomol",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "BP 100/80 mm hg, PR- 76 bpm, regularly, regular, Cvs: s1 s2 heard",
+        "investigations": "",
+        "lab_measurements": "Grbs 160 mg/dl",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "Day 3",
+      "activity": "Patient subjectively feeling better",
+      "symptom": "Cough, SOB decreased",
+      "diagnosis": "Cardiogenic shock/ ? Septic shock with paroxysmal AF",
+      "treatment": "Increase nor ad to maintain map 65 mm hg, Taper iontrope once bp stabilises",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "BP 90/60 mm hg, PR 80 bpm, Rr 18 cpm",
+        "investigations": "",
+        "lab_measurements": "Grbs 170 mg/dl, Temp 97.5 F",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 9,
+      "time": "Later",
+      "activity": "Patient subjectively feeling better",
+      "symptom": "",
+      "diagnosis": "Cardiogenic shock with acute LV Failure secondary to MAT",
+      "treatment": "Continue iv fluids, Inj monocef, Inj Pan 40mg, Inj neomol",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "BP 110/60 mm hg, PR- 55 bpm, Rr 20, Cvs s1 s2",
+        "investigations": "",
+        "lab_measurements": "Grbs 124 mg/dl, Temp 97.5 F",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 10,
+      "time": "Later",
+      "activity": "Patient complained of pain on left upper limb",
+      "symptom": "Pain on left upper limb",
+      "diagnosis": "Cardiogenic shock with acute LV Failure secondary to MAT",
+      "treatment": "Continue iv fluids, Inj monocef, Inj Pan 40mg, Inj neomol",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "BP 110/70 mm hg, PR- 68 bpm, Rr 20, Cvs- S1 S2 +",
+        "investigations": "",
+        "lab_measurements": "Grbs 78 mg/dl, Temp 97.8 F",
+        "discussion": ""
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGpT22NIiU-YNQgW2bL_2ZZrKFstn8lT9twIk2VJ11R4GFz4KyBM-CSR4EGwTIFR1qQc3bsS_k4sN9DmAKDLeetS6O6M-Y5FZewrWWW9_yn3VVIgAnzSxfh0LHov6icEhK1T8b2JPB1qU/s1600/1633856928051637-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo8UFPlmYcrodwcEtLUmeRoZb0sWhAJqIn3Ym40YnhSn-ukckG-hv0Uhp8XJodSYAiYwk-VCLYsw110Sjstd3xgGa2-rPc8MIaBveqtqo8Ok4ntwkv3Zq7MXUVzDh_cs2uqpr0Y77CuTo/s1600/1633856922993066-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUjxHVlcZwWLQAQWUMHqimEDHIq8kYTfviqU0NZf-THq7-Fm2Fw6BfK_KvN622bqr1Qa27krJxWiIgJrfrYuQWiIp4dGGiP2g2RIRUMiBpJb4dCYNSqcD2f4pUj3oNUBbbDT4FPoKi9AM/s1600/1633856917363319-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUPFhIcSj61yPYh3XwiUzz91woJ50DtlCFeAT8jLZCUnrxXvie2O9ZvbmnYPKof1zVgPz5f68o6RdYNLVvgolix03mOms-3Wdfn-lzXeBB8MzfxnlkCamUUMa9JC-geDVig3jI75xymaY/s1600/1633922696199721-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4tOtI1_o1eGEL51GXymRDhRvXIP7MeBSn37fEZG6zLeDntbPSVXb31VMKy01r4lrZc3xtCGH3YDz7ogFgcEVSjZbImW0mhl12SPCqlKYjnXpbkKNWuHdLIJxVyqjhlDgSTr3XZKMf4EA/s1600/1633922685974299-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje-t_A1jPqpmDDOHrwZAZwwMh9Zv_waWce-FokCyHCnwGwnJpUY2Cdk3m6cTSL5ZNgP_PDKXnpSla8-WAix6zMo-L5r0viiTR0aMeM8Es4nJdK5D3uC0b3QXYvIPqUq2PKcrB4aePfQg4/s1600/1633922665593078-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIkL1dd1jijVNLAWTC-fRSW9zaFsQekDgjVjq8c42tfKLxDRCL_lwBp3jfZzCoXYYEgVbBagmC4RCGNwLK3fa6T-Rk56lV1nM9a5L6R7A7itO6VXT3i6e2dwsquQT6d0WvtDh5yhxA66w/s1600/1633922646483615-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEu4ZvUyH2B5QkW9prV9Oe92O1vw7T1dLXOVT-TaxbGo9KWnskWa6nfmGlQEjpBa6UsRiecTFsDTFDDyXI_cFVY4I9vh-tJLZWTmFdck-SCRUYn_-YwYMaM-ugCiDdDgdxku2g8_cdFFA/s1600/1633922632062256-4.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoxQvp3cqErVlY1NRXhabx84edl65CdnTPImpEP77JvzmrT3JH1HVKK9PwExczA3r8MKY0a_fB8n17y88T67SQKnhNh0uGU8OKTNLrI6LK1EFQCX9-9DmELcZOh4z034Bud52jwmTwqwc/s1600/1634009847602518-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuo4q25NctkpOjCAxP-BqjwLsMAvwTjmXNC0CUQgrPd9GynDMs9OusoVftBeAGjywBArCF3Rs83XYvFxmEzrdCGPo9OjRi6xqmtHC_VLONHvmnU8XgsfnjU9M7vxVfbuYY2c6G1cHHHvY/s1600/1634008421127307-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbFMEN3N6qY5cBrLWgZPZXmAnpFCCErgz8Htq1XoIKxlK24tVVkkwOix_kp9ui1Ii6HuQ2zZ-6qlSsgXszs1AFZVkXkR2Nu0hZrrHoDYToYc0pQR8twKEnoR5Vyfcg2gqpcC0noa_0mlE/s1600/1634009842066463-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM-QXPj-DJZJ9hNHzrEil5tneb9nps8lTE-6LOGI6tLcjypBOFAWjo1tgzKJPla_anbnLmBHadLlGvNnt9x4V9ndsCfpa2ZIRx9nc0Rt1X6xJxe5HvNR2q4yb6UBtkmoHJZ_7Lan4EhpQ/s1600/1634100205752134-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiImjiP2g8Ykl7vzTMExWnRgl4rjQMZQznsZs_SBObtDvGHhIYuo5EGWkACcescqvnES9auF6ywbWlFe5XKAcikoZdaOnN7rnDv8jUh3_fxGNzysKnUqMvqbEEq1ibzkpb8AF82J9Z3UBo/s1600/1634271469232316-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj94FuaEbF7CXNgNzvU8DbSbZqmo4tMVtSsrmL0TIyOQw9lP6Q0DQgcARGSd9rFSwbmjst9P8hI9Nze62wSq9b6cQ_abbDjeWLpQjmXwaayZHKFqnsTRspkPBz1EyjU_PNXUDpYPxdLTI8/s1600/1634271463814774-1.png",
+    "https://resources.blogblog.com/img/icon18_edit_allbkg.gif"
+  ]
+}

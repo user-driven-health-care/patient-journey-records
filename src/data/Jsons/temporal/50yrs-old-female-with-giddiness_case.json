@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "url": "https://elogformedicalcase.blogspot.com/2021/11/50yrs-old-female-with-giddiness.html",
+    "datetime": "2021-11-21T06:03:00-0800"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "8 years ago",
+      "activity": "Episodes of staring look, not responding to commands",
+      "symptom": "Staring look, unresponsiveness",
+      "diagnosis": "Hypertension",
+      "treatment": "Anti-hypertensives",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "6 years ago",
+      "activity": "Menorrhagia, underwent hysterectomy",
+      "symptom": "Menorrhagia",
+      "diagnosis": "Fibroid",
+      "treatment": "Hysterectomy",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "6 years ago",
+      "activity": "Diagnosed with diabetes",
+      "symptom": "",
+      "diagnosis": "Diabetes",
+      "treatment": "Oral Hypoglycemic agents (Glimipramide)",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "10 days ago",
+      "activity": "Blunt trauma to left side of abdomen",
+      "symptom": "Pain in left hypochondrium",
+      "diagnosis": "",
+      "treatment": "Painkillers",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "1 day ago",
+      "activity": "IM injection, tongue swelling, slurred speech",
+      "symptom": "Tongue swelling, slurred speech, giddiness, diplopia",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "Presentation",
+      "activity": "Presentation to casualty",
+      "symptom": "Giddiness, double vision, slurred speech",
+      "diagnosis": "Acute ischaemia, CVA with infarct in left pons, uncontrolled DM2, hypertension",
+      "treatment": "IVF, NS, insulin, pain management",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Afebrile, PR-111, BP 140/80, RR 18, GRBS- high, SPO2- 96",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "ICU admission",
+      "activity": "ICU admission",
+      "symptom": "Giddiness, double vision, slurred speech",
+      "diagnosis": "Acute ischaemia, CVA with infarct in left pons, uncontrolled DM2, hypertension",
+      "treatment": "Inj NPH, Inj HAI, Tab Ecosprin, Tab Atorvas, Tab Clopidogrel",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Afebrile, PR-84/min, BP-130/80mmHg",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL5GbUlk2MpQRUEVoFItIMgUe7lyCQosnbxFnve3OGYhcxU1YIH9Dwk-s6BiXqQnVmtW3mzZzx7S6Ua56OseSvG5f6w6WcgNaeMjWxBqmeNdaz7m_3ukDcF64pEe07l40lQUMdKbUw6ZI/s1600/1637504095399143-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnqkTnHT1qS5pKLC7dcIkenFxCOIeeQjylTo6NdHkU3mDrmLX82NDkLz2VkMs0g93ZZEooPESZ_DFjd1amSJVtMecc3muAySOmCQOOYg_PjmUqOieiAfqPw0ZolTpqogxoi8YhhePJi50/s1600/1637504089182232-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgai7M4FQc6ax3gv1YjpRceSZ7RN1l-JL2uNBnzDhOQ6jq8b5Bm1TwCFmzIpA0GDcDS3uTdICpkaEzwugizaCeIRWOqP7C65R6Ig2jQ2q6ntmUo4iHmoYaG-mqUYo2R_E4n8ljOZ1inZrs/s1600/1637504076657966-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3WsmM3UP7wB7VSyX-A_1J3Kc8ucN-kY54RefgmadCzKuPh6iFneXjUtlmHUnVU9ZjVzwX-x8h6u1FCBamZiaVrIp2SNmDLrM4yIiWDmvpEIIoR0Y-vSSRWq3esjZDA8-9jscgzYhxdpE/s1600/1637504068524513-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpuB3_7eezsqetD_VdvuzaNEFgBZPMN-ZhKQpIbVMtsSx12IBg7wHC2qSOH66yO3CnWb3Ew4uDIw8C9t9FwQGuFPTU6eScqCBno9MdmrLfz87dHNQw9KPHbdu3IqXQhhdag8yuWbSw1W8/s1600/1637504061893237-4.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGRqX0CAvqwboxvFQq8mOjj3MAtJclXnHGwBwITQORLnH1q65lsOtlFjkRSPdgVfvWYKyNM6vod32wcdDFbYAvBB7JiZYIqSzs_LTmVDf_WGLdjjhmsXy1icqpL7mKheiNUnxZqt-6kxs/s1600/1637504055688299-5.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_W9kTXf7XiVDJUkAwl-kE7m4w87Db_oKer6nwOW-CdAPsah_WndAlEEoRczalUmSSkYBZHVTZwa8lt8elY4xmDgqqq_iClTbBilJ0ljx2rMe7cjWC786rhobuV_9ECyq1culVvxvX9Ro/s1600/1637573232813152-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZjZLNkrYnvCVxBWa5vdfl7ebbiIH6-WbgnybLUv-whpIbRR_RIZak0LxV2FaVfWg5ZmC6aLIhQlpEIG1zH5id_BPepyBawxdJNmANnZVK1Xas-lwIKxvjDUQ7bW1Zt7777DYJYtLAW3E/s1600/1637573225490168-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlu2Uz8KKZRRw-DDNNKe2hJ18jPgCg-USk6ICCD2t0lZKgi1HCF0cwOFfvziyKsd-NC653ge7PKNsNdg04AsoWTDsYvSAsBRU4uKz8r1aOrkv_-eWGTPiRZqMkdzQqoiMo3MLL8qw3fhw/s1600/1637573220724688-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLYZQPg5Sl7y-jDIAhOmkSQ7vXFPH38Glnsc49K4-xE0EglG21fORLLN3qEFb592qPT2betpFHubuhl55kVh_DIHHWsFEltp8XsJngJO4qsy6fz7pejk9hYUBoWtyTM0SjbPJYyj8RpcM/s1600/1637573214988036-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsP_is1mY6zAmwIDGlXTBolts_fqTYjT0xQF0TTkt1nCE6utebCn1AZDFI0pltH6T19e1pmO3vavmn8OhXnX-64npnD7jVLTVBVaCiNaKMHAd5llpXLM4HkCLhQBJlvuF6g6JdQn3nch0/s1600/1637573210407114-4.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYjYPf2MPrvERljYcUZ3LYO2QxIHO3rWDykAp2JprPjwSL4zKE7mBRWdZ4HQ7AmXbKS4zVc0PwdMEdegaewsJ8eDfuWdUPEgIDmYRAVuFIqGfztQCOfNb5NuHmwvOlJJkWMH413dobgi0/s1600/1637643793990461-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik9e0lw7Rr6m2vIDpsywoBMhamxKoykbC1NC80XUeuchf_X88Jikb2XMdm_LT3m9VN7T6scOeeivisDeZaYCcJAKUaYHn43gpOuAsFA0ibk49btVwe06pYt_PXz9yQZPiAHeaG9XJqqHg/s1600/1637643781202173-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZyGv2WbKhxa0ss9zhKFvhdfyz4-nQ7MEQKv3jbIjf0gbC-bRqkNn_5c-prP9e2w04gNz7vg027ior2MVVf8CqsC5Q9kDDAqq-1JylhySfPO8fN_wxpsN03BxQZBxDmH3OuTMMti1hXJo/s1600/1637643771733525-2.png",
+    "https://resources.blogblog.com/img/icon18_edit_allbkg.gif"
+  ]
+}

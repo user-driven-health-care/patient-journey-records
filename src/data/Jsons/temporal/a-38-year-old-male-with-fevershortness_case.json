@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "url": "https://dandushivani.blogspot.com/2021/05/a-38-year-old-male-with-fevershortness.html",
+    "datetime": "2021-05-23T06:05:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "14 days back",
+      "activity": "Developed fever",
+      "symptom": "Fever",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "38 year old male",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "8 days back",
+      "activity": "Developed generalized body weakness",
+      "symptom": "Generalized body weakness",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "7 days back",
+      "activity": "Developed shortness of breath",
+      "symptom": "Shortness of breath",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "4-05-2021",
+      "activity": "Tested positive for rapid antigen covid",
+      "symptom": "",
+      "diagnosis": "COVID-19",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "HRCT CHEST CORADS 6, CTSI 14/25",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "17/05/2021",
+      "activity": "Admitted to hospital",
+      "symptom": "Fever, generalized body weakness, shortness of breath",
+      "diagnosis": "",
+      "treatment": "O2 inhalation, iv fluids, inj.pantop, tab.dexamethasone",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Conscious, coherent, cooperative, well oriented to time, place, person",
+        "investigations": "",
+        "lab_measurements": "Temperature-98° F, Heart Rate - 97 beats/min, Blood Pressure - 130/70 mm Hg, Respiratory rate - 18 cycles/min, SPO2 - 92% at room air, GRBS - 115 MG/DL",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "18/05/2021",
+      "activity": "Continued treatment",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "O2 inhalation, iv fluids, inj.pantop, tab.dexamethasone",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "Temperature-afebrile, Heart rate - 83 beats/min, Blood pressure - 120/80 mm Hg, SPO2 - 96% at room air",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "19/05/2021",
+      "activity": "Continued treatment",
+      "symptom": "",
+      "diagnosis": "Viral pneumonia secondary to COVID-19 infection",
+      "treatment": "O2 inhalation, iv fluids, inj.pantop, tab.dexamethasone",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "Temperature-afebrile, Heart rate - 84 beats/min, Blood pressure - 110/70 mm Hg, SPO2 - 96% at room air",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "19/05/2021 (10:00 AM)",
+      "activity": "Discharged from hospital",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Tab pan 40 mg, tab mvt, tab limcee, tab dolo 650 mg, tab telma h",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "Pulse :86BPM, BP: 130/60MM HG, Temperature:Afebrile, Spo2:99% on room air",
+        "discussion": ""
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-JuvOiHkCOItSvC5JnOsuwa-HE7ktYAtdBUzmPW8Q2Ig7CuQT5efzWZviuw_pLI1jje6qnMBL-pVq5MLOlOEPjG9pHOiKRp-L1TialeZFoql3PCdIPT0a0eRv39tIoqxnDRvZ9Gftw4Y/w370-h228/blog.1.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxe9tSh9gi2S87KQ98IVDBWRnnZtDHFang_f_rXVuUN9FYnyLQtdlYPcJfwXHhcODIi3J1fGl1BpDm-ZRnt7Rs_zMgEnme3RHrhIVHgPLO88wr7B1T6ZZlAOpRPMbOr623UZ0oDuqiz20/s0/BLOG+10.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV8Uez2sHkl9q8aSjh1V0IZzT5o6cAfQU7hfsQHoJCmhugZ0cV014lmQS5HdUeqYAuzzDLkKtCuu3r08F5hbXSyAc-IHpvWqg4o__9OZnM71KWsk6xt4rzB_GQ1FzLbjisc4_x1y0wWms/s0/11.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBYBwux7Qg8c_gvhmfHG9stiMQbQ5kJvmhu8n7CthcBM0eGgewhVrcatd32gEQp71NUcDX66DkfVIc6zhn52gcFAqtaNSlvaFDteEk_OmU8Rl6W5Qw1j7_muQsCF7-X6AvUm33cynHPUw/s320/12.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirruTZtZS1ZkMPaK5e3VM9k6Xox_hoK7vY-TaZxyCpcIgCcBJPse-IHmyS11NzzQCdeXboXZ4L4sdk393ydE3NBu_DpTFDwHQQl7yssvMo7Abd_15CqucoWZql2V8ymGllMWR00o-ElIM/w400-h225/BLOG+7.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQO6ig3mny4ATVptuYol1bod128dsVZxsOp_pJEMywU5Fl0wb94OI2fG5j1qfZqY67VdwY-W6EKOifpwkkha2M9YyzZ5wu1RulmUfQkxjIKKvM-fT4UMe6QFoyJKi5H_T5fSAYKUVsbUg/s1600/1622349274480045-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-oYTu7vN6s664QbqyBLCzw1QyZ_DvFrvs0bQEsYajLxPWOCTzx9D18kdsDUolMU_kkHkE1M7PP1zeu21H2JRgeE9Ai7AgIRFySr5IfUigSM6TeqbM1t51iIhFWbebt6Hh_Iz_0vBq3sg/s1600/1622550305905498-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUILbalxvVmBLllojPlR4ywa0eDCfq_gtC_ABMvA4xQyJgSSmNH5-DL2CFicsNEwvPC4RxRy3UvBUv0MQW9PufLPfuNDe7TX5ng8o266OPoxgZqis38D3jc7QtwxXLdN6PUaUzudxaRrI/s1600/1669225855973446-0.png"
+  ]
+}

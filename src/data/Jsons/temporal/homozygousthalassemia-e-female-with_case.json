@@ -1,0 +1,275 @@
+{
+  "metadata": {
+    "url": "https://elogformedicalcase.blogspot.com/2021/10/homozygousthalassemia-e-female-with.html",
+    "datetime": "2021-10-10T04:48:00-0700"
+  },
+  "timeline": [
+    {
+      "metadata": {
+        "url": "",
+        "datetime": "",
+        "links": [],
+        "additional_metadata": "32-year-old female"
+      },
+      "timeline": [
+        {
+          "ordinal": 1,
+          "time": "11 years ago",
+          "activity": "developed jaundice",
+          "symptom": "yellowish discoloration of sclera and skin",
+          "diagnosis": "",
+          "treatment": "medication",
+          "notes": {
+            "demographics": "32-year-old female",
+            "physical_exam": "",
+            "investigations": "",
+            "lab_measurements": "",
+            "discussion": ""
+          }
+        },
+        {
+          "ordinal": 2,
+          "time": "2018",
+          "activity": "similar episode occurred",
+          "symptom": "jaundice",
+          "diagnosis": "",
+          "treatment": "medication",
+          "notes": {
+            "demographics": "",
+            "physical_exam": "",
+            "investigations": "",
+            "lab_measurements": "",
+            "discussion": ""
+          }
+        },
+        {
+          "ordinal": 3,
+          "time": "April 2019",
+          "activity": "developed jaundice during 8th month of pregnancy",
+          "symptom": "jaundice",
+          "diagnosis": "",
+          "treatment": "medications and LSCS at term",
+          "notes": {
+            "demographics": "",
+            "physical_exam": "",
+            "investigations": "",
+            "lab_measurements": "",
+            "discussion": ""
+          }
+        },
+        {
+          "ordinal": 4,
+          "time": "August 2020",
+          "activity": "abdominal pain, MRCP performed",
+          "symptom": "abdominal pain",
+          "diagnosis": "stone in CBD and stricture",
+          "treatment": "stent placement",
+          "notes": {
+            "demographics": "",
+            "physical_exam": "",
+            "investigations": "MRCP",
+            "lab_measurements": "",
+            "discussion": ""
+          }
+        },
+        {
+          "ordinal": 5,
+          "time": "2.5 months later",
+          "activity": "stent removal",
+          "symptom": "",
+          "diagnosis": "",
+          "treatment": "",
+          "notes": {
+            "demographics": "",
+            "physical_exam": "",
+            "investigations": "",
+            "lab_measurements": "",
+            "discussion": ""
+          }
+        },
+        {
+          "ordinal": 6,
+          "time": "January 2021",
+          "activity": "cholecystectomy",
+          "symptom": "",
+          "diagnosis": "",
+          "treatment": "",
+          "notes": {
+            "demographics": "",
+            "physical_exam": "",
+            "investigations": "",
+            "lab_measurements": "",
+            "discussion": ""
+          }
+        },
+        {
+          "ordinal": 7,
+          "time": "June 2021",
+          "activity": "complained of abdominal pain, vomiting, fever, and chills",
+          "symptom": "abdominal pain, vomiting, fever, chills",
+          "diagnosis": "",
+          "treatment": "medication",
+          "notes": {
+            "demographics": "",
+            "physical_exam": "",
+            "investigations": "",
+            "lab_measurements": "",
+            "discussion": ""
+          }
+        },
+        {
+          "ordinal": 8,
+          "time": "July 2021",
+          "activity": "similar episode repeated",
+          "symptom": "abdominal pain, vomiting, fever",
+          "diagnosis": "",
+          "treatment": "",
+          "notes": {
+            "demographics": "",
+            "physical_exam": "",
+            "investigations": "",
+            "lab_measurements": "",
+            "discussion": ""
+          }
+        },
+        {
+          "ordinal": 9,
+          "time": "September 2021",
+          "activity": "abdominal pain, unbearable",
+          "symptom": "abdominal pain",
+          "diagnosis": "",
+          "treatment": "",
+          "notes": {
+            "demographics": "",
+            "physical_exam": "",
+            "investigations": "",
+            "lab_measurements": "",
+            "discussion": ""
+          }
+        },
+        {
+          "ordinal": 10,
+          "time": "October 2021",
+          "activity": "admitted to AIG, MRCP performed",
+          "symptom": "",
+          "diagnosis": "stricture in CHD",
+          "treatment": "ERCP",
+          "notes": {
+            "demographics": "",
+            "physical_exam": "",
+            "investigations": "MRCP, ERCP",
+            "lab_measurements": "",
+            "discussion": ""
+          }
+        },
+        {
+          "ordinal": 11,
+          "time": "October 2021",
+          "activity": "investigations",
+          "symptom": "",
+          "diagnosis": "",
+          "treatment": "",
+          "notes": {
+            "demographics": "",
+            "physical_exam": "",
+            "investigations": "hemogram, TLC, platelets, ESR, total bilirubin, direct bilirubin, indirect bilirubin, SGPT, SGOT, ALP, total proteins, albumin, globulin, serum LDH, serum creatinine",
+            "lab_measurements": "Hb-8.5, TLC-8800, platelets-150,000, ESR-34, total bilirubin-3.5, direct bilirubin-1.5, indirect bilirubin-2.0, SGPT-93, SGOT-68, ALP-271, total proteins-8.0, albumin-4.1, globulin-3.9, serum LDH-292, serum creatinine-0.7",
+            "discussion": ""
+          }
+        },
+        {
+          "ordinal": 12,
+          "time": "October 2021",
+          "activity": "cytology study",
+          "symptom": "",
+          "diagnosis": "benign ductal epithelial cells, negative for malignancy",
+          "treatment": "",
+          "notes": {
+            "demographics": "",
+            "physical_exam": "",
+            "investigations": "cytology study",
+            "lab_measurements": "",
+            "discussion": ""
+          }
+        },
+        {
+          "ordinal": 13,
+          "time": "December 2021",
+          "activity": "follow-up, plan for further management",
+          "symptom": "",
+          "diagnosis": "",
+          "treatment": "",
+          "notes": {
+            "demographics": "",
+            "physical_exam": "",
+            "investigations": "",
+            "lab_measurements": "",
+            "discussion": ""
+          }
+        },
+        {
+          "ordinal": 14,
+          "time": "December 2021",
+          "activity": "CBD stent removal, new stent placement",
+          "symptom": "",
+          "diagnosis": "",
+          "treatment": "",
+          "notes": {
+            "demographics": "",
+            "physical_exam": "",
+            "investigations": "",
+            "lab_measurements": "",
+            "discussion": ""
+          }
+        },
+        {
+          "ordinal": 15,
+          "time": "December 2021",
+          "activity": "patient complains of vomiting, fever, pain in RUQ, jaundice",
+          "symptom": "vomiting, fever, pain in RUQ, jaundice",
+          "diagnosis": "post-ERCP cholangitis",
+          "treatment": "iv ceftriaxone, tab paracetamol",
+          "notes": {
+            "demographics": "",
+            "physical_exam": "",
+            "investigations": "",
+            "lab_measurements": "",
+            "discussion": ""
+          }
+        }
+      ]
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqfLNOaNAjNGExPus7OUoC9bZGdKg384NXM2sU_awfRgPSvR665s9O7CD1IsGDOf2fVU0Z4d2nt9hDM84J85L9W8cj_TzWO74WwN32qqao8FPPRJFEzrB7tkrymopXDa92hKo2b9LC_WA/s1600/1634201946997813-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsb501g5y4YeB5PMQQN6GfbP0QT3oXY5oum0fhUbPibiI_jZVr5_HFOdiNHLqQtdufedl-YR5dsxwWAbTnAO1iPvkly3kw0T71n4mGHQbNUSOxJ4yx_rhX9E9XtIkixFGAhKhMk2hfvrs/s1600/1634201942559697-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHU4-S9SlMwUAVuyIzGJh5UfhfxsLvBV0JNLimhqzg6n9OEO8mEyPreXMIpjPMp91W8M0n5JS_D6MuMi0AxVBEBTGepHOQDolIhGcwBSwwU4XsMNb-prX4tmZch7KylLsvB_9czPnNlRE/s1600/1634201938100170-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioI1B0oo-rxX24MtiVJXRcvKJLYbpyytGlcZe_2xOmN4QrEhQCkUTHII23VtdUel1SRZGhoj6BipmAWv5V3zJd5OfEAhMXzMs-ZNAuOQcNJIcboCw4zs6RZD1dXbMqhwMl7t_BYXfza5U/s1600/1634201933652586-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjW8po0xW7iPERDMZXNToqfu-GbwGip9chWbVbOGyGCQoHT-uDkbrbZOpCfwh80YeNS0YRlwaZLBL-8VJHTaACiLkveDO2P72xW92J1wIt7Wz1L4LHtKHUCTAc_n4ndMJ9a5ArvWgCnQQ/s1600/1634201929184333-4.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJaNZZOLhdVwmDe1HrJgzXAF_hF05rV91AprXxA2f5V8-ZpccWFyUg1sVpzaiuSjtgmN9gnmbb0mI0kPqjuVGnNKYFYRYCCmPzo-XoDAo2Xlyfjg4R2OKAOJQ5Qh_QWoeau12wf6_Tr9g/s1600/1634201924079405-5.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8bePGY9wb3rKIBmRNLRuo-WKvxHp-zI21bVY38rCtTFdjLt2pGr9F6U98v40Xesk5tIm_GKgscxXq65csD4oMc40R4vzK-gbYZmhEGiUWCRUwDURyr1RSsUBCeo6KZ0GxaT3IYn2Yf58/s1600/1634355261706163-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhHF0_k5zoQa9DuI7HCIDeasOCczWaLwr1YQwgek4pz6bGGs9O-1n0RY5I0rwvkgb5ublzo1woFpsvDXBt9rUiooZ2cGhxNoJgscYWDIk75iJroCePEMfEP7maPAFcIyJKD9p1B4PO5Yw/s1600/1634355257171346-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2F-DU-TBb7-gaZWPETmgJ7kIbYQU6TF-FHHVIgdHfwvGY56eBRHJ4he-pU_PIZ7QtCsIHUKUxYKPuTPDz_IqCEgRl9sA-fE1PmnwWWmYOyGTsTqIBU0Sltk3w-P8zQ09Tn8_h9eCZTkU/s1600/1634355251884867-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ1PRyx7batSaeKkOtQZejsPkM8iVB7MENf5GvnFbHcp314ZKJxEHR0EANPXGUxV9uHqrB1EvlL8xR5lngIOtubVukNRhulrvj_Vs9_A45ww8NBWvdu9nKfTFNuyM4IQgl_ytBCvHWUKg/s1600/1634355246733852-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy0BVbawo607L6dqTNUCxUT0G62YqYmGNW9AUZ1CSJbFJfXx9Ageh0bc8-Ouw6Sob77vXnPEqQVFIHrf4FzHkiJKDqI5n5mwyjt634L16fv0cOmPL-K3dMoZxNtsXPuFLF9XVFAtZ4wqs/s1600/1634355236601139-4.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdmzh5gpMOwNWPX09ljJlCsz4H6PGHSjS_VTis_unVzw__iJpouklGeYxVjgC_KxP2iJBTQGczX8cMj9xfUfhE0UV_bUPR6x6TG_anp_3gcIEZCHWrk0Q1LuyLCYvN4Z9L-GGPk9HFH7I/s1600/1633866482437492-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPvXpExe8O2YWR4ugdvb92M-_sGhaywS_GGMldqH0f5WYDbJqiHZBrlT_66w1ZucjZCOxRgOR6CBDNXTV-Cr03RuuJ3CAJUQGJdtxZF6Gu2LCej0qvA0WpXNbaoF00Z1HBxfVDcXltQ4Q/s1600/1633866468225408-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBQE-tJ8rQjdggmvBo8gQTMn4PXBkT3A3nejOoRaQs_yBY5S4z_pZMxRm3BmGFn5qqHE047j2DgKa1vW6vjEO6FLzqzpT-VN9PksAwN0yxCkHyfCbM1AAEQktq9qGH25HBk61xNyDTE4Y/s1600/1640676452876063-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW7sHgjezzadluYqvzrfmJeaK7VppYD4UGu_UIRbqPlmNq-9PJI4-FsRQOCKls05EFxPzk9yKrCtP7BZ6feANBedtuaz70nVxcUBY-TS1lJMgKDbMH-2hlLSAbsadD_4sum4wSSO5mVMo/s1600/1640676403176728-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjPLu8bcaUOr0ZGRtMVR0eI2E_q8a3aAzw1CnyLzf6itxX_UvYd9sQBBwTKaQjFyNhS7J8xJ9XFrkzDHcUdgQ9jgHmCkJ27ZmAYH5_UI7fRnmKQWezxDT2JIX8izu3D6xJIw5m_fS3FwI/s1600/1640676380403618-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgYkekiF9eLKjJ1QAdO6eTZEovbsYWYHTK14Oy2CRsR0BBEu1HuHubZGhLiOAlNuyjCgKYu2P0wI-ekl-oAMK2hDe-IHJLY9gsl032kYCxEh2FJPLUK1yZ2Mth7rG7SjxAv4-VcWCoru4/s1600/1640797579376728-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_K8pB-RJ9QHhpx9N3fTGy4gy0ABm5M6EjDX0uhlkjvVs4zW-5o4Ll3SEYRhDmYgoyELCV6gxqgAWtwMXw8Ysb39fzzIRR_DVHk33_jqpSfB1VfvA3AdJGWRwXIGFIHqc6TxngRNyncKg/s1600/1640797559214996-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqL9-gr02gJNZBnPUhdsN-4YeMqFTj4mjb0Gu9z0ru3WjFxN3bIGOQi9m5ORC7LBr_ieuiqRAUg4oxbM-CcbnhvAYX3nmi2PkPolDTkIup5sGadvh5hVuqAZkUZXFsj4mvbg30vLN1Ymc/s1600/1640798995963367-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4lHS0tRpLuuXDbS6rYljbr1rxYX3csLzXGrTUqTgkqRvkWRxoWDOsEnbDwojsgI6vlv_u5XIs7HsdQVEJJIqMXIMJ8jQZXwSohOJ645L0HrJgwzL1N4rzw5j0KMya2g_IpK9ZgNjmLOk/s1600/1640798989396239-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3q3bPendO-LEgCy1JM3qSjD4TqjHBkXKtaYU9RPklOMygxQuM1l0PLx20Pedq7YV9SuZGPp9QS_cg4zb1iP5Pxd-Rg4xOXNwWp3Aqk6LAdNHKWtMnDQrFWoMmsEXnQ6vhHrZX8RVP9ok/s1600/1640798983055359-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio_SR0E8TuZNxagiHdPeDl4idz4gCX3wdpKKA-aclibO5nQDJr2hSMV9xr_jgRIsfbQfLu3FI_VDhsNTqLA2LXzuL8KD2ZbrnRuet7hFfTRtq_cPpW_zT2GusAO91n5TT-j8Yk3Nn86bs/s1600/1640798975988012-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQMgNC4qbd3m1dS0-G8PjmFkbtwTCT_qvwf_Ooq4j0GnY0iay78G8bGmrWXpXwrm4e03u-7fc9lPsPQfBSHpTjBi1LZmdE6uM7xWJJUH_w7nAkgE7VDqO_nc1AiI3msPpZg3ya8s8wg_Q/s1600/1640798969131626-4.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrVpAf4Yg6V31tzUgRs9EjBQCeM_XVsfZZ_6yXsaujTD2olC6aYvqf_t6TocKwny_t0iT8moN4CC2fHAtEXrD9vW2wOX-xVQg7Oq6oC45VrWf8HZzYaRDjQYzsjxRXCL2t58BB0iMwJo0/s1600/1640839880964027-0.png",
+    "https://resources.blogblog.com/img/icon18_edit_allbkg.gif",
+    "https://elogformedicalcase.blogspot.com/www.blogger.com/img/blogger_logo_round_35.png",
+    "https://elogformedicalcase.blogspot.com/www.blogger.com/img/blogger_logo_round_35.png",
+    "https://elogformedicalcase.blogspot.com/www.blogger.com/img/blogger_logo_round_35.png",
+    "https://elogformedicalcase.blogspot.com/www.blogger.com/img/blogger_logo_round_35.png",
+    "https://elogformedicalcase.blogspot.com/www.blogger.com/img/blogger_logo_round_35.png"
+  ]
+}

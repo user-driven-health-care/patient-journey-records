@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "url": "https://harshitakusuma216.blogspot.com/2021/10/viral-pyrexia-under-evaluation.html",
+    "datetime": "2021-10-19T20:47:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "3 days prior to OPD visit",
+      "activity": "Patient experienced high grade fever, chills, cold, and cough",
+      "symptom": "high grade fever, chills, cold, productive mucoid cough",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "50 year old male",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "OPD visit",
+      "activity": "Patient visited OPD with complaints",
+      "symptom": "high grade fever, chills, cold, productive mucoid cough",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "conscious, coherent, cooperative, no pallor, icterus, cyanosis, clubbing, or lymphadenopathy",
+        "investigations": "",
+        "lab_measurements": "Temperature: 98.2F, BP: 130/90 mmHg, PR: 98bpm, RR: 22 cpm, SpO2: 98% in room air",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "OPD visit",
+      "activity": "General and systemic examination",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "CVS: S1 S2 heard, no thrills and murmurs, RS: trachea central, BAE- present, Normal vesicular Breath sounds, CNS: No focal neurological deficits",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "OPD visit",
+      "activity": "Investigations",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "CBP, CUE, LFT, RFT, Rapid HBSg, HIV 1 and 2, HCV, ECG",
+        "lab_measurements": "HB: 12.8 gm/dl, Total count: 5000 cells/cumm, Platelet count: 2.07 lakh/cumm, Albumin: trace, Pus cells: 4, Sugar: nil, Epithelial cells: 2-3, T.Bilirubin: 0.53, D.bilirubin: 0.20, SGOT: 69, SGPT: 78, Alkaline phosphatase: 177, T.proteins: 6.6, Albumin: 3.2, A/g: 0.95, S.creatinine: 0.8, S.urea: 12, S.electrolytes: Sodium: 139, Potassium: 3.7, Chloride: 98",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "OPD visit",
+      "activity": "Treatment initiation",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "IVF NS, RL @ 100 Ml/hr, Inj.pan 40mg /iv/od, INJ.optineuron 1 amp in 100 ml NS/iv/od, Tab.Dolo 650 mg po/sos, temperature monitoring, strict bp, pr monitoring",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/a/AVvXsEjN5oGzNcJ5Xs8saCU_VV0Weu3K1qIZjDCqzhjue0QW2ksVHt1BbM0662nLss_evEeszOz9f_zQob7VQ15W7Okmt41w1gl29MyzE48hXIRWqxgnM19U3c01SCC58D5D6KOujhGZD-WDHuWW2H-ubS9e9Kio5D7DwoLcCz8x6LFy4NOauaVn7iqC0WV6Lw=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEi_q0iyTvUkK_l54jtx5oaRcxzVicYp6xF_4z8H9NUzlIcTpzog63p2QO-a7e8qA5NSitdzgS5fwj5IE6UMpUEWgSPJW2zcUDa6-_dmEngDjG2P-4zWtJJof7xpECpBt-bL-p6NNQ8oVTrXHEKkc_J8LG2hhnKExhBcvcFfF7_yCXxvovtJWOAuZAFQeQ=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEiQW0GAOWcaqdZif1Cg9DlG3CMux2hkPoPvaPx2tnC1RkmJAMy8emlRDGJzx28WNJja3Ief__7dF9P2XEgVJJ74qowX0AH6J-j36JNC4xDDncRMcfAGQamsYYJheDfT-5Oyp3rcezUuRa1aFz4Nw-_Q9zNZjf3xWS_ok8IMpHnwQ9SziCoKzocOL9ry8Q=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEgisOkikoga9RHEjwrtQUMiNpWBNGcDJDPHUMkEpmbRfw7KmJ4rLiEhHTL9BrQa-ESOqEeffOpN-4QjRHQ6X4mP1K2xpySP75Ec1odv56K9oaoCM4YIsBnRvdgsI3TIsWZ06c9UmJxxhNg5oKlWdI5NNeh7Fx8VCM9rKutPpNYuyz0bzl8DNjEWB8XWag=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEjj_uWYnGgcCrczRAcJe0iwhBtIOZKFPiFq9_2SI3yORkpA1aQN7uKoNwYTHFUwPEKFUckDxkUtAaEhdMtLHgdcmoz07ygjhdMs2Fe7Jguy0jVQgLLmXQ4c4wX_ITTXC0Drhgj3QcYGFQi0zQ56Q7fIe-fzL3xWEn3ue2ZcO85nnsa95ZdyLhJczmPjjw=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEiUnIc0ZuFSbQ5ejE4aNQW_py_iLOBHZLEIF23SR8djjC4Pcs__najJYIdc3u-sM2Mno6paIAlxLrUiyetG4LEX51XBYcCWOAiaC79hxif4Qjj4afSlGqCFgJsgY1C7LKMekkcxc6LXAVV-ibc8AFKCb89NsGEYnWoQn57pWgkhrn3PuuCDXIHISFZ45w=s320",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGkkV89AHAS95Cc9-rSagx3O8dXdqJ-WrVCIrK-2XF62oRGyGhkv6hpeI_DvfZk3Do-EM1XqAH9Mt00mNWFl5Rg0DcCIhtvf5hvKApGxdv9AZFfIcWSWkGgZYZzx7KkwvfepZwZNm8b0CB/"
+  ]
+}
